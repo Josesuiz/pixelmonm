@@ -382,3 +382,39 @@ java.lang.NullPointerException: null
 [28Nov2024 19:53:02.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD gave ThebrosXD a Arceus!]
 [28Nov2024 19:53:06.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
 [28Nov2024 19:53:16.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> te voy a ensaeñar a mew
+[28Nov2024 19:53:37.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ese no se parece a mew
+[28Nov2024 19:53:42.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
+[28Nov2024 19:53:43.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD was kicked for floating a vehicle too long!
+[28Nov2024 19:53:43.809] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Flying is not enabled on this server
+[28Nov2024 19:53:43.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
+[28Nov2024 19:53:43.856] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[28Nov2024 19:53:56.023] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6bd86e56
+[28Nov2024 19:53:56.033] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:52433] logged in with entity id 5738 at (-1663.202880859375, 131.65916486372655, 257.703857421875)
+[28Nov2024 19:53:56.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
+[28Nov2024 19:54:08.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en donde vive el mow
+[28Nov2024 19:54:19.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> hay que ir a su tierra
+[28Nov2024 19:54:56.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tal vez
+[28Nov2024 19:55:40.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Poliwag.]
+[28Nov2024 19:55:48.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Mew.]
+[28Nov2024 19:56:12.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Not getting away this time!]
+[28Nov2024 19:56:12.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Well um technically it’s Mythical…]
+[28Nov2024 19:56:12.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Legend… wait for it… dary!!!]
+[28Nov2024 19:56:31.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Mewtwo.]
+[28Nov2024 19:57:29.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Legend… wait for it… dary!!!]
+[28Nov2024 19:57:29.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Behold my powers!]
+[28Nov2024 19:57:36.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Wormadam.]
+[28Nov2024 19:59:44.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> NADA PUEDE ANTE EL PODER DE MEWTWO
+[28Nov2024 20:00:06.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
+[28Nov2024 20:00:22.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> XD
+[28Nov2024 20:01:13.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ponte a charizard
+[28Nov2024 20:01:15.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [The Final Frontier]
+[28Nov2024 20:01:17.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Ultra Threatening Thorns]
+[28Nov2024 20:01:17.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tengo su conter
+[28Nov2024 20:01:27.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [The Final Frontier]
+[28Nov2024 20:01:27.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:01:27.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Ultra Threatening Thorns]
+[28Nov2024 20:01:41.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
+[28Nov2024 20:01:46.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> estamos en el espacio
+[28Nov2024 20:01:48.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> creo
+[28Nov2024 20:03:16.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:03:25.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
