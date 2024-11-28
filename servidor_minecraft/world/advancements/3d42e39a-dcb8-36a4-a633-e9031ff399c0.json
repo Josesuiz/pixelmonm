@@ -11,9 +11,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/computer/black_pc": {
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
     "criteria": {
-      "has_pc": "2024-11-28 19:54:15 +0000"
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
     },
     "done": true
   },
@@ -23,9 +23,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+  "pixelmon:recipes/machines/computer/black_pc": {
     "criteria": {
-      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+      "has_pc": "2024-11-28 19:54:15 +0000"
     },
     "done": true
   },
@@ -187,15 +187,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 19:34:08 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 19:34:08 +0000"
     },
     "done": true
   },
@@ -253,15 +253,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/computer/green_pc": {
-    "criteria": {
-      "has_pc": "2024-11-28 19:54:15 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/decor/household_items/mug_ball": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/green_pc": {
+    "criteria": {
+      "has_pc": "2024-11-28 19:54:15 +0000"
     },
     "done": true
   },
@@ -427,15 +427,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/decor/healer/black_healer_dyed": {
-    "criteria": {
-      "has_healer": "2024-11-28 19:33:28 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/base/iron_base": {
     "criteria": {
       "has_ingot": "2024-11-28 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 19:33:28 +0000"
     },
     "done": true
   },
@@ -483,12 +483,6 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 19:11:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-28 19:10:50 +0000",
@@ -500,6 +494,12 @@
       "minecraft:plains": "2024-11-28 19:10:17 +0000"
     },
     "done": false
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -627,15 +627,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/decor/water_float/green_water_float_dyed": {
-    "criteria": {
-      "has_the_recipe": "2024-11-28 19:53:06 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/base/silver_base": {
     "criteria": {
       "has_ingot": "2024-11-28 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/water_float/green_water_float_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 19:53:06 +0000"
     },
     "done": true
   },
@@ -693,9 +693,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
+  "pixelmon:ultra_space/root": {
     "criteria": {
-      "has_healer": "2024-11-28 19:33:28 +0000"
+      "entered_ultra_space": "2024-11-28 20:01:27 +0000"
     },
     "done": true
   },
@@ -705,9 +705,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/decor/water_float/red_water_float": {
+  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
     "criteria": {
-      "has_slime": "2024-11-28 19:53:06 +0000"
+      "has_healer": "2024-11-28 19:33:28 +0000"
     },
     "done": true
   },
@@ -717,21 +717,27 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/water_float/red_water_float": {
+    "criteria": {
+      "has_slime": "2024-11-28 19:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-11-28 19:53:06 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/machines/computer/gray_pc": {
-    "criteria": {
-      "has_pc": "2024-11-28 19:54:15 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/decor/healer/gray_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:33:28 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/computer/gray_pc": {
+    "criteria": {
+      "has_pc": "2024-11-28 19:54:15 +0000"
     },
     "done": true
   },
@@ -771,21 +777,27 @@
     },
     "done": true
   },
+  "pixelmon:ultra_space/ultra_forest_sleep": {
+    "criteria": {
+      "ultra_forest_sleep": "2024-11-28 20:01:27 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/pink_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:33:28 +0000"
     },
     "done": true
   },
-  "pixelmon:legendaries/mewtwo_capture_trigger": {
-    "criteria": {
-      "mewtwo_capture": "2024-11-28 19:57:29 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/decor/healer/brown_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 19:33:28 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/mewtwo_capture_trigger": {
+    "criteria": {
+      "mewtwo_capture": "2024-11-28 19:57:29 +0000"
     },
     "done": true
   },

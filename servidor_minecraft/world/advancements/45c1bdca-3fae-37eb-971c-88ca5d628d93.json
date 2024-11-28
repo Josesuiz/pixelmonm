@@ -773,9 +773,21 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/rayquaza_capture_trigger": {
+    "criteria": {
+      "rayquaza_capture": "2024-11-28 20:07:07 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/gray_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:ultra_space/root": {
+    "criteria": {
+      "entered_ultra_space": "2024-11-28 20:01:15 +0000"
     },
     "done": true
   },
@@ -842,6 +854,12 @@
   "pixelmon:recipes/decor/water_float/green_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:ultra_space/ultra_forest_sleep": {
+    "criteria": {
+      "ultra_forest_sleep": "2024-11-28 20:01:17 +0000"
     },
     "done": true
   },

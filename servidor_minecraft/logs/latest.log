@@ -418,3 +418,49 @@ java.lang.NullPointerException: null
 [28Nov2024 20:01:48.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> creo
 [28Nov2024 20:03:16.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
 [28Nov2024 20:03:25.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:03:49.656] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
+[28Nov2024 20:03:49.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
+[28Nov2024 20:04:27.752] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD moved too quickly! 1980.3000741674266,-150.3250047415495,360.0803899311876
+[28Nov2024 20:04:36.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[28Nov2024 20:05:15.612] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c4f842
+[28Nov2024 20:05:15.626] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:51469] logged in with entity id 7382 at (-1621.9354338528465, 78.0, 228.30000001192093)
+[28Nov2024 20:05:15.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
+[28Nov2024 20:05:15.726] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest talk_to_npc, resetting that instance!
+[28Nov2024 20:05:15.727] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest find_village, resetting that instance!
+[28Nov2024 20:05:16.085] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
+[28Nov2024 20:05:16.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
+[28Nov2024 20:05:59.758] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b37003b
+[28Nov2024 20:05:59.764] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:39443] logged in with entity id 7458 at (-1621.9354338528465, 78.0, 228.30000001192093)
+[28Nov2024 20:05:59.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
+[28Nov2024 20:06:14.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:06:29.952] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Timed out
+[28Nov2024 20:06:29.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
+[28Nov2024 20:06:44.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Rayquaza.]
+[28Nov2024 20:07:07.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Wind rider!]
+[28Nov2024 20:08:47.386] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3799922503928883
+[28Nov2024 20:08:47.422] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.9560573773301826
+[28Nov2024 20:08:47.470] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.6361950581940619
+[28Nov2024 20:08:47.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3712052937255521
+[28Nov2024 20:08:47.554] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.1347596496244705
+[28Nov2024 20:08:47.654] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.570722323067883
+[28Nov2024 20:08:47.754] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.7524833747903895
+[28Nov2024 20:08:47.804] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.38005125709969434
+[28Nov2024 20:08:47.949] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3704561797239876
+[28Nov2024 20:08:48.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3596859188449457
+[28Nov2024 20:08:48.056] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.1061710084360357
+[28Nov2024 20:08:48.107] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.815001281659761
+[28Nov2024 20:08:48.157] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.4794831768882091
+[28Nov2024 20:08:48.406] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.35008358532536477
+[28Nov2024 20:08:48.457] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.9316901528790709
+[28Nov2024 20:08:48.507] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.6738779414675946
+[28Nov2024 20:08:48.581] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 2.4745581028649895
+[28Nov2024 20:08:48.649] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.30195929819200273
+[28Nov2024 20:09:34.572] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:orange_chair}[facing=south] but failed at location BlockPos{x=286, y=61, z=263}
+[28Nov2024 20:11:43.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Vikavolt.]
+[28Nov2024 20:13:13.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lugia.]
+[28Nov2024 20:13:29.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Aww it’s not XD001]
+[28Nov2024 20:13:50.108] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4251f787
+[28Nov2024 20:13:50.115] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:39979] logged in with entity id 7641 at (400.95761647770865, 110.0, 561.2249288244207)
+[28Nov2024 20:13:50.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
+[28Nov2024 20:13:50.853] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
+[28Nov2024 20:13:50.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
