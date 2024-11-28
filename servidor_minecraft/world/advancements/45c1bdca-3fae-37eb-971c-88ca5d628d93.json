@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/infuser/juice/colorful_juice": {
-    "criteria": {
-      "has_juice_berry_2": "2024-11-28 16:25:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_2": "2024-11-28 16:25:41 +0000"
     },
     "done": true
   },
@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
-    "criteria": {
-      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/base/iron_base": {
     "criteria": {
       "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
     },
     "done": true
   },
@@ -95,15 +95,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-11-28 16:20:44 +0000"
-    },
-    "done": true
-  },
   "pixelmon:pokedex/pokedex_trigger": {
     "criteria": {
       "pokedex_base": "2024-11-28 16:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
     },
     "done": true
   },
@@ -112,6 +112,15 @@
       "has_string": "2024-11-28 16:20:44 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-11-28 16:30:59 +0000",
+      "minecraft:river": "2024-11-28 16:30:39 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 16:30:38 +0000",
+      "minecraft:plains": "2024-11-28 16:31:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 2586
 }
