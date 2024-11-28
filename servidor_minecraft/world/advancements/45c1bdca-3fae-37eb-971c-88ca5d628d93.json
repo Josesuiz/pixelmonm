@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-28 16:20:44 +0000"
@@ -56,6 +62,12 @@
   "pixelmon:recipes/decor/healer/green_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
     },
     "done": true
   },
@@ -199,6 +211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:17:17 +0000"
@@ -301,6 +319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-11-28 16:20:44 +0000"
@@ -331,9 +355,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
     },
     "done": true
   },
@@ -414,6 +456,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-28 16:42:22 +0000",
+      "minecraft:taiga_hills": "2024-11-28 19:36:46 +0000",
       "minecraft:birch_forest": "2024-11-28 16:35:27 +0000",
       "minecraft:beach": "2024-11-28 16:30:59 +0000",
       "minecraft:river": "2024-11-28 16:30:39 +0000",
@@ -476,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-11-28 16:41:45 +0000"
@@ -488,6 +537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-28 19:38:18 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/orange_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 16:46:03 +0000"
@@ -497,6 +552,12 @@
   "pixelmon:recipes/decor/healer/light_gray_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-11-28 19:38:18 +0000"
     },
     "done": true
   },
@@ -521,6 +582,12 @@
   "pixelmon:recipes/decor/healer/red_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-11-28 19:38:18 +0000"
     },
     "done": true
   },
