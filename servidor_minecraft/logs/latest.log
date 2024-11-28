@@ -962,3 +962,4 @@ java.lang.NullPointerException: null
 [28Nov2024 16:42:30.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 left the game
 [28Nov2024 16:42:32.855] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:pink_pc}[facing=west,multipos=top] but failed at location BlockPos{x=-1791, y=70, z=541}
 [28Nov2024 16:42:34.744] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
+[28Nov2024 16:56:31.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Survival Mode]

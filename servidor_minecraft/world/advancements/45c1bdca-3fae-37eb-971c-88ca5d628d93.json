@@ -11,15 +11,248 @@
     },
     "done": true
   },
-  "pixelmon:recipes/infuser/juice/colorful_juice": {
+  "pixelmon:recipes/decor/healer/white_healer": {
     "criteria": {
-      "has_juice_berry_2": "2024-11-28 16:25:41 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
   "pixelmon:recipes/equipment/curry_dex": {
     "criteria": {
       "has_curry_ingredient": "2024-11-28 16:16:22 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/item_frame": {
+    "criteria": {
+      "has_painting": "2024-11-28 16:39:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-11-28 16:42:22 +0000",
+      "minecraft:birch_forest": "2024-11-28 16:35:27 +0000",
+      "minecraft:beach": "2024-11-28 16:30:59 +0000",
+      "minecraft:river": "2024-11-28 16:30:39 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 16:30:38 +0000",
+      "minecraft:plains": "2024-11-28 16:31:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/red_juice": {
+    "criteria": {
+      "has_red_juice_berry_3": "2024-11-28 16:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 16:21:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 16:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/yellow_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_feather": "2024-11-28 16:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/magenta_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/white_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-11-28 16:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_2": "2024-11-28 16:25:41 +0000"
     },
     "done": true
   },
@@ -41,9 +274,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/aluminum_base": {
+  "pixelmon:recipes/decor/healer/red_healer_dyed": {
     "criteria": {
-      "has_ingot": "2024-11-28 16:12:57 +0000"
+      "has_healer": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
@@ -53,21 +286,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/iron_base": {
+  "pixelmon:recipes/decor/healer/magenta_healer": {
     "criteria": {
-      "has_ingot": "2024-11-28 16:12:57 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/platinum_base": {
+  "pixelmon:recipes/decor/healer/purple_healer": {
     "criteria": {
-      "has_ingot": "2024-11-28 16:12:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2024-11-28 16:20:44 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
@@ -77,15 +304,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/wooden_base": {
+  "pixelmon:recipes/decor/healer/pink_healer_dyed": {
     "criteria": {
-      "has_slab": "2024-11-28 16:12:57 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/decor/household_items/item_frame": {
-    "criteria": {
-      "has_painting": "2024-11-28 16:39:50 +0000"
+      "has_healer": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
@@ -101,38 +322,75 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "pixelmon:recipes/decor/healer/blue_healer": {
     "criteria": {
-      "minecraft:taiga": "2024-11-28 16:42:22 +0000",
-      "minecraft:birch_forest": "2024-11-28 16:35:27 +0000",
-      "minecraft:beach": "2024-11-28 16:30:59 +0000",
-      "minecraft:river": "2024-11-28 16:30:39 +0000",
-      "minecraft:lukewarm_ocean": "2024-11-28 16:30:38 +0000",
-      "minecraft:plains": "2024-11-28 16:31:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-11-28 16:21:48 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
     "criteria": {
-      "in_water": "2024-11-28 16:41:45 +0000"
+      "has_healer": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
-  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
     "criteria": {
-      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
+      "has_logs": "2024-11-28 16:48:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "pixelmon:recipes/decor/healer/blue_healer_dyed": {
     "criteria": {
-      "in_water": "2024-11-28 16:41:45 +0000"
+      "has_healer": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/cyan_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-11-28 16:48:49 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/green_healer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer_dyed": {
+    "criteria": {
+      "has_healer": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
@@ -148,21 +406,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "pixelmon:recipes/decor/healer/light_blue_healer": {
     "criteria": {
-      "in_water": "2024-11-28 16:41:45 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/equipment/old_rod": {
+  "pixelmon:recipes/decor/healer/orange_healer": {
     "criteria": {
-      "has_string": "2024-11-28 16:20:44 +0000"
+      "has_the_recipe": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "pixelmon:recipes/decor/healer/gray_healer_dyed": {
     "criteria": {
-      "in_water": "2024-11-28 16:41:45 +0000"
+      "has_healer": "2024-11-28 16:46:03 +0000"
     },
     "done": true
   },
