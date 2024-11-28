@@ -2232,3 +2232,77 @@ java.lang.NullPointerException: null
 [28Nov2024 20:13:55.953] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
 [28Nov2024 20:13:55.953] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
 [28Nov2024 20:13:55.953] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[28Nov2024 20:14:00.510] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[28Nov2024 20:14:00.510] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[28Nov2024 20:14:00.510] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[28Nov2024 20:14:00.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[28Nov2024 20:14:00.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[28Nov2024 20:14:00.513] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[28Nov2024 20:14:00.517] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLLoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[28Nov2024 20:14:00.517] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.fml.network.FMLHandshakeMessages$C2SAcknowledge
+[28Nov2024 20:14:00.517] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[28Nov2024 20:14:00.554] [Server thread/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[28Nov2024 20:14:00.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d26d24a
+[28Nov2024 20:14:00.623] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:44583] logged in with entity id 7651 at (400.95761647770865, 110.0, 561.2249288244207)
+[28Nov2024 20:14:00.624] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@5c8e4a2a into net.minecraft.network.NetworkManager@73389808
+[28Nov2024 20:14:00.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
+[28Nov2024 20:14:34.004] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 20:14:34.013] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 20:14:46.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> esta chiquito
+[28Nov2024 20:15:17.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lotad.]
+[28Nov2024 20:15:33.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lunala.]
+[28Nov2024 20:15:56.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Solgaleo.]
+[28Nov2024 20:16:02.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> como lo haces xd
+[28Nov2024 20:16:18.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Entei.]
+[28Nov2024 20:16:22.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Entei.]
+[28Nov2024 20:16:43.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Raikou.]
+[28Nov2024 20:16:49.049] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Aggron (vehicle of Arthuro) moved wrongly! 0.47646805860358654
+[28Nov2024 20:16:51.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 20:17:03.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
+[28Nov2024 20:17:09.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
+[28Nov2024 20:17:16.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
+[28Nov2024 20:17:42.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Thunder! Thunder! Thunder… no wait wrong]
+[28Nov2024 20:18:02.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Kyogre.]
+[28Nov2024 20:18:11.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> se ahoga :o
+[28Nov2024 20:18:13.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Groudon.]
+[28Nov2024 20:18:18.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> el groudon
+[28Nov2024 20:18:31.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> decia kyogre
+[28Nov2024 20:18:35.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> es de agua xd
+[28Nov2024 20:18:41.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aa
+[28Nov2024 20:18:57.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dialga.]
+[28Nov2024 20:19:12.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Giratina.]
+[28Nov2024 20:19:23.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Girafarig.]
+[28Nov2024 20:19:33.968] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 20:19:33.980] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 20:20:11.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Meowstic.]
+[28Nov2024 20:20:34.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Meowth.]
+[28Nov2024 20:20:36.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Y cuando se abre el juego real? xd
+[28Nov2024 20:20:52.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> cuando esten todos
+[28Nov2024 20:21:26.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD fell out of the world
+[28Nov2024 20:21:26.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed ThebrosXD]
+[28Nov2024 20:21:33.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:21:34.101] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:21:34.101] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:21:41.553] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:21:41.553] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:21:44.004] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:21:44.004] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[28Nov2024 20:22:41.731] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-946, y=65, z=1322}
+[28Nov2024 20:22:41.765] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-945, y=66, z=1260}
+[28Nov2024 20:22:41.828] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-965, y=66, z=1275}
+[28Nov2024 20:22:42.184] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-945, y=65, z=1348}
+[28Nov2024 20:22:42.199] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1003, y=67, z=1265}
+[28Nov2024 20:22:42.200] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-879, y=67, z=1331}
+[28Nov2024 20:22:42.340] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-898, y=66, z=1374}
+[28Nov2024 20:22:42.413] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1023, y=66, z=1332}
+[28Nov2024 20:22:42.414] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-878, y=67, z=1372}
+[28Nov2024 20:22:42.415] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1008, y=63, z=1361}
+[28Nov2024 20:22:42.415] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1009, y=63, z=1361}
+[28Nov2024 20:22:42.481] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1011, y=67, z=1304}
+[28Nov2024 20:22:43.062] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-875, y=66, z=1397}
+[28Nov2024 20:22:43.329] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-974, y=66, z=1410}
+[28Nov2024 20:22:43.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:22:59.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> MATADLOOOOOOOOO
+[28Nov2024 20:23:31.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe te esta ganando un meowth :v
+[28Nov2024 20:23:40.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 20:23:53.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd

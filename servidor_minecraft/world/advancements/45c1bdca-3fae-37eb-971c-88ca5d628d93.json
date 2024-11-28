@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/lugia_capture_trigger": {
+    "criteria": {
+      "lugia_capture": "2024-11-28 20:13:29 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/yellow_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:10 +0000"

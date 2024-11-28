@@ -831,6 +831,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/raikou_capture_trigger": {
+    "criteria": {
+      "raikou_capture": "2024-11-28 20:17:42 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/yellow_water_float_dyed": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:53:06 +0000"
