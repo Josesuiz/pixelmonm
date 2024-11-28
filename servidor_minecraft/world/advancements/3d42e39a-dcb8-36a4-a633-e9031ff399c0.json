@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/spheal_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-28 19:28:33 +0000"
+    },
+    "done": false
+  },
   "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
@@ -68,6 +74,14 @@
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "unown_capture_all": "2024-11-28 19:28:33 +0000",
+      "eeveelution_capture_all": "2024-11-28 19:28:33 +0000",
+      "minior_capture_all": "2024-11-28 19:28:33 +0000"
     },
     "done": true
   },
@@ -160,6 +174,26 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2024-11-28 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/eeveelution_capture_all": {
+    "criteria": {
+      "0": "2024-11-28 19:28:33 +0000",
+      "1": "2024-11-28 19:28:33 +0000",
+      "2": "2024-11-28 19:28:33 +0000",
+      "3": "2024-11-28 19:28:33 +0000",
+      "4": "2024-11-28 19:28:33 +0000",
+      "5": "2024-11-28 19:28:33 +0000",
+      "6": "2024-11-28 19:28:33 +0000",
+      "7": "2024-11-28 19:28:33 +0000",
+      "8": "2024-11-28 19:28:33 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/net_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
@@ -171,6 +205,12 @@
       "has_log": "2024-11-28 19:14:12 +0000"
     },
     "done": true
+  },
+  "pixelmon:specs/magikarp_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-28 19:28:33 +0000"
+    },
+    "done": false
   },
   "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
     "criteria": {
@@ -190,11 +230,23 @@
     },
     "done": true
   },
+  "pixelmon:recipes/equipment/leaf_stone/leaf_stone_equipment": {
+    "criteria": {
+      "has_leaf_stone": "2024-11-28 19:27:07 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
     },
     "done": true
+  },
+  "pixelmon:specs/clobbopus_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-28 19:28:33 +0000"
+    },
+    "done": false
   },
   "pixelmon:recipes/machines/trade_machine/trade_panel": {
     "criteria": {
@@ -217,6 +269,12 @@
   "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2024-11-28 19:28:33 +0000"
     },
     "done": true
   },

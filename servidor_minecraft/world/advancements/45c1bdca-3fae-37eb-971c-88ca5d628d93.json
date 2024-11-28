@@ -458,6 +458,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/equipment/leaf_stone/leaf_stone_equipment": {
+    "criteria": {
+      "has_leaf_stone": "2024-11-28 19:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-11-28 16:41:45 +0000"
