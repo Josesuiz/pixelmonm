@@ -1,0 +1,39 @@
+{
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/aluminum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/silver_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-11-28 16:12:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
