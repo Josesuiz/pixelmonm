@@ -523,3 +523,72 @@ java.lang.NullPointerException: null
 [28Nov2024 20:23:31.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe te esta ganando un meowth :v
 [28Nov2024 20:23:40.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
 [28Nov2024 20:23:53.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
+[28Nov2024 20:25:12.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> PLATA
+[28Nov2024 20:25:18.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tengo PLATA
+[28Nov2024 20:25:23.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ven
+[28Nov2024 20:25:46.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:26:39.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 20:27:42.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> hija de ...
+[28Nov2024 20:27:58.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> que feo
+[28Nov2024 20:28:24.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aca hay otro
+[28Nov2024 20:28:31.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:29:17.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:30:05.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> aunque me va lag
+[28Nov2024 20:30:25.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en esta parte si
+[28Nov2024 20:30:40.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:31:48.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ooo
+[28Nov2024 20:32:08.512] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.pixelmonmod.pixelmon.items.heldItems.BrightPowderItem.func_195939_a(BrightPowderItem.java:69) ~[pixelmon:1.16.5-9.1.12]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[28Nov2024 20:32:09.529] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.pixelmonmod.pixelmon.items.heldItems.BrightPowderItem.func_195939_a(BrightPowderItem.java:69) ~[pixelmon:1.16.5-9.1.12]
+	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
+	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[28Nov2024 20:32:16.761] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 0.9681317668944303
+[28Nov2024 20:32:16.762] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
+[28Nov2024 20:32:16.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
+[28Nov2024 20:32:16.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
+[28Nov2024 20:32:16.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
+[28Nov2024 20:32:26.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> shif
+[28Nov2024 20:32:33.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> salta
+[28Nov2024 20:33:24.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:34:11.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> y eso
