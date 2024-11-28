@@ -1,13 +1,31 @@
 {
-  "minecraft:adventure/sleep_in_bed": {
+  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
     "criteria": {
-      "slept_in_bed": "2024-11-28 19:06:42 +0000"
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/wooden_base": {
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
     "criteria": {
-      "has_slab": "2024-11-28 19:05:20 +0000"
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
     },
     "done": true
   },
@@ -23,21 +41,194 @@
     },
     "done": true
   },
-  "pixelmon:pokedex/pokedex_trigger": {
-    "criteria": {
-      "pokedex_base": "2024-11-28 19:06:21 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/base/iron_base": {
     "criteria": {
       "has_ingot": "2024-11-28 19:05:20 +0000"
     },
     "done": true
   },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/base/platinum_base": {
     "criteria": {
       "has_ingot": "2024-11-28 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-28 19:05:20 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-11-28 19:06:21 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-11-28 19:10:50 +0000",
+      "minecraft:birch_forest": "2024-11-28 19:10:23 +0000",
+      "minecraft:beach": "2024-11-28 19:10:05 +0000",
+      "minecraft:river": "2024-11-28 19:10:08 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-28 19:09:51 +0000",
+      "minecraft:plains": "2024-11-28 19:10:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 19:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/building_infrastructure/bridge_block": {
+    "criteria": {
+      "has_logs": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-11-28 19:15:40 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_poke_ball": "2024-11-28 19:11:54 +0000"
     },
     "done": true
   },
