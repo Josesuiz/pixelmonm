@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-28 20:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 20:58:06 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/black_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:33:28 +0000"
@@ -68,6 +80,12 @@
   "pixelmon:recipes/decor/water_float/light_blue_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 20:58:06 +0000"
     },
     "done": true
   },
@@ -136,6 +154,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-28 19:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-11-28 20:58:15 +0000"
     },
     "done": true
   },
@@ -241,6 +265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-28 20:58:05 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/magenta_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:33:28 +0000"
@@ -262,6 +292,12 @@
   "pixelmon:recipes/machines/computer/green_pc": {
     "criteria": {
       "has_pc": "2024-11-28 19:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2024-11-28 20:58:06 +0000"
     },
     "done": true
   },
@@ -292,6 +328,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-11-28 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:54:07 +0000"
     },
     "done": true
   },
@@ -343,6 +385,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/household_items/washing_machine": {
+    "criteria": {
+      "has_water_bucket": "2024-11-28 20:58:28 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/trade_machine/trade_panel": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
@@ -388,6 +436,12 @@
   "pixelmon:recipes/decor/water_float/black_water_float_dyed": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-11-28 20:58:13 +0000"
     },
     "done": true
   },
@@ -483,6 +537,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/terrain/tree": {
+    "criteria": {
+      "has_leaves": "2024-11-28 20:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-28 20:58:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-11-28 19:10:50 +0000",
@@ -498,6 +564,12 @@
   "pixelmon:recipes/machines/trade_machine/trade_monitor": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/mixed_mushrooms": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-28 20:58:05 +0000"
     },
     "done": true
   },
@@ -525,6 +597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2024-11-28 20:58:30 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/purple_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:06 +0000"
@@ -534,6 +612,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-11-28 19:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 20:58:05 +0000"
     },
     "done": true
   },
@@ -573,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-11-28 20:58:05 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/orange_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 19:33:28 +0000"
@@ -591,9 +681,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/equipment/wailmer_pail": {
+    "criteria": {
+      "has_water_bucket": "2024-11-28 20:58:28 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/computer/red_pc": {
     "criteria": {
       "has_pc": "2024-11-28 19:54:15 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/trash_can": {
+    "criteria": {
+      "has_bucket": "2024-11-28 20:58:28 +0000"
     },
     "done": true
   },
@@ -651,6 +753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2024-11-28 20:58:29 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/brown_water_float_dyed": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:53:06 +0000"
@@ -669,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-11-28 20:58:06 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/lime_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:06 +0000"
@@ -681,9 +795,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 20:58:12 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/computer/yellow_pc": {
     "criteria": {
       "has_pc": "2024-11-28 19:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-11-28 20:58:13 +0000"
     },
     "done": true
   },
@@ -789,6 +921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-11-28 20:58:29 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/healer/brown_healer_dyed": {
     "criteria": {
       "has_healer": "2024-11-28 19:33:28 +0000"
@@ -819,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:54:07 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:11:54 +0000"
@@ -828,6 +972,18 @@
   "pixelmon:recipes/decor/healer/light_blue_healer": {
     "criteria": {
       "has_the_recipe": "2024-11-28 19:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-11-28 20:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2024-11-28 20:58:06 +0000"
     },
     "done": true
   },
