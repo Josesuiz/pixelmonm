@@ -1,7 +1,43 @@
 {
-  "pixelmon:recipes/pokeball/base/wooden_base": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_slab": "2024-11-28 16:12:57 +0000"
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_2": "2024-11-28 16:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/curry_dex": {
+    "criteria": {
+      "has_curry_ingredient": "2024-11-28 16:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 16:21:48 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cookingpot": {
+    "criteria": {
+      "has_curry_ingredient": "2024-11-28 16:16:22 +0000"
     },
     "done": true
   },
@@ -17,9 +53,9 @@
     },
     "done": true
   },
-  "pixelmon:pokedex/pokedex_trigger": {
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
     "criteria": {
-      "pokedex_base": "2024-11-28 16:12:54 +0000"
+      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
     },
     "done": true
   },
@@ -32,6 +68,48 @@
   "pixelmon:recipes/pokeball/base/platinum_base": {
     "criteria": {
       "has_ingot": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/green_juice": {
+    "criteria": {
+      "has_green_juice_berry_2": "2024-11-28 16:25:41 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-28 16:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2024-11-28 16:12:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
     },
     "done": true
   },

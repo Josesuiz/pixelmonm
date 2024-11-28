@@ -262,3 +262,14 @@ java.lang.NullPointerException: null
 [28Nov2024 16:12:21.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
 [28Nov2024 16:12:54.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [You picked a starter!]
 [28Nov2024 16:14:21.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[28Nov2024 16:20:13.022] [Server thread/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[28Nov2024 16:20:27.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Only took me four tries *Fist pump*]
+[28Nov2024 16:26:39.858] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Disconnected
+[28Nov2024 16:26:39.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
+[28Nov2024 16:27:10.156] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@41972968
+[28Nov2024 16:27:10.166] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Angelichi39[/127.34.191.121:56315] logged in with entity id 1081 at (360.5, 96.0, 556.5)
+[28Nov2024 16:27:10.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 joined the game
+[28Nov2024 16:27:20.567] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@26ee07ce
+[28Nov2024 16:27:20.607] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:55011] logged in with entity id 1085 at (354.82806992108226, 96.0, 573.4969691475421)
+[28Nov2024 16:27:20.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
+[28Nov2024 16:27:32.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 has made the advancement [You picked a starter!]
