@@ -561,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2024-11-28 20:32:14 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/level_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-28 19:17:17 +0000"
