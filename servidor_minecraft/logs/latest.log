@@ -354,3 +354,31 @@ java.lang.NullPointerException: null
 [28Nov2024 19:42:00.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> me violo
 [28Nov2024 19:42:02.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
 [28Nov2024 19:42:02.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 19:44:11.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 19:44:24.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> y eso?
+[28Nov2024 19:44:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> nose
+[28Nov2024 19:44:57.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> supongo que hay que derrotar a cubone
+[28Nov2024 19:45:09.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> esto tiene que ser de la nueva generacion de aqui si no se xd
+[28Nov2024 19:45:21.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a de ser eso
+[28Nov2024 19:45:53.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe elige
+[28Nov2024 19:47:07.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> no estoy entendiendo nada
+[28Nov2024 19:47:25.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ya elegi
+[28Nov2024 19:47:32.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> pero no ataca xd
+[28Nov2024 19:47:43.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> esperandin dice
+[28Nov2024 19:47:45.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> lol
+[28Nov2024 19:47:47.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> :o
+[28Nov2024 19:47:52.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> XD
+[28Nov2024 19:47:54.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> XD
+[28Nov2024 19:47:55.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe
+[28Nov2024 19:48:06.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Se murio
+[28Nov2024 19:48:08.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> un charmeleon
+[28Nov2024 19:48:39.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> pregunta
+[28Nov2024 19:49:02.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> se empieza con 100 masterballs supongo no? :v
+[28Nov2024 19:49:13.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> no :v
+[28Nov2024 19:49:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=-1453, y=71, z=52}
+[28Nov2024 19:49:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=south,multipos=top] but failed at location BlockPos{x=-1445, y=71, z=53}
+[28Nov2024 19:49:32.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD moved too quickly! -2.8472529315740758,0.0,-9.695357114207136
+[28Nov2024 19:52:58.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Only took me four tries *Fist pump*]
+[28Nov2024 19:53:02.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD gave ThebrosXD a Arceus!]
+[28Nov2024 19:53:06.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
+[28Nov2024 19:53:16.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> te voy a ensaeñar a mew
