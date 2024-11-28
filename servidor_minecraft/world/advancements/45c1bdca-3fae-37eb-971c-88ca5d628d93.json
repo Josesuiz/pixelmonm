@@ -29,9 +29,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "consumed_item": "2024-11-28 16:21:48 +0000"
+      "in_water": "2024-11-28 16:41:45 +0000"
     },
     "done": true
   },
@@ -59,21 +59,9 @@
     },
     "done": true
   },
-  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
-    "criteria": {
-      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/pokeball/base/platinum_base": {
     "criteria": {
       "has_ingot": "2024-11-28 16:12:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2024-11-28 16:20:44 +0000"
     },
     "done": true
   },
@@ -95,6 +83,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/household_items/item_frame": {
+    "criteria": {
+      "has_painting": "2024-11-28 16:39:50 +0000"
+    },
+    "done": true
+  },
   "pixelmon:pokedex/pokedex_trigger": {
     "criteria": {
       "pokedex_base": "2024-11-28 16:12:54 +0000"
@@ -107,20 +101,70 @@
     },
     "done": true
   },
-  "pixelmon:recipes/equipment/old_rod": {
-    "criteria": {
-      "has_string": "2024-11-28 16:20:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-11-28 16:42:22 +0000",
+      "minecraft:birch_forest": "2024-11-28 16:35:27 +0000",
       "minecraft:beach": "2024-11-28 16:30:59 +0000",
       "minecraft:river": "2024-11-28 16:30:39 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 16:30:38 +0000",
       "minecraft:plains": "2024-11-28 16:31:33 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 16:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-11-28 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/old_rod": {
+    "criteria": {
+      "has_string": "2024-11-28 16:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-28 16:41:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 2586
 }
