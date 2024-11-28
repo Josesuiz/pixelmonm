@@ -343,6 +343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:49:21 +0000"
+    },
+    "done": true
+  },
   "pixelmon:pokedex/pokedex_trigger": {
     "criteria": {
       "pokedex_base": "2024-11-28 16:12:54 +0000"
@@ -791,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:49:21 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/water_float/gray_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:10 +0000"
@@ -896,6 +908,12 @@
   "pixelmon:recipes/decor/water_float/cyan_water_float": {
     "criteria": {
       "has_slime": "2024-11-28 19:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-28 20:49:21 +0000"
     },
     "done": true
   },

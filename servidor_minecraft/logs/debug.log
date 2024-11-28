@@ -2392,3 +2392,57 @@ java.lang.NullPointerException: null
 [28Nov2024 20:41:57.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xD
 [28Nov2024 20:44:05.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> todo falla
 [28Nov2024 20:44:07.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> :v
+[28Nov2024 20:44:33.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 20:44:33.849] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 20:44:46.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ambipom mpv
+[28Nov2024 20:44:52.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 20:44:57.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aguanto todo
+[28Nov2024 20:45:34.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> siendo tramposo cualquiera gana
+[28Nov2024 20:45:37.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
+[28Nov2024 20:46:09.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonair.]
+[28Nov2024 20:46:12.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> toma
+[28Nov2024 20:46:16.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonite.]
+[28Nov2024 20:46:21.592] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro moved too quickly! 904.4663767008199,-3.0,-1366.2984389230862
+[28Nov2024 20:46:21.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
+[28Nov2024 20:46:22.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
+[28Nov2024 20:46:28.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonite.]
+[28Nov2024 20:47:10.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Aerodactyl.]
+[28Nov2024 20:47:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Zigzagoon.]
+[28Nov2024 20:48:06.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Squirtle.]
+[28Nov2024 20:48:29.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:50.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:51.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:52.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:53.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:48:54.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:49:04.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:49:05.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:49:07.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
+[28Nov2024 20:49:37.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machamp.]
+[28Nov2024 20:49:37.512] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[28Nov2024 20:49:37.521] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[28Nov2024 20:49:52.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machamp.]
+[28Nov2024 20:49:59.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machoke.]
+[28Nov2024 20:51:06.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
+[28Nov2024 20:51:12.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
+[28Nov2024 20:51:18.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
+[28Nov2024 20:51:24.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Creative Mode]
+[28Nov2024 20:51:54.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 75 entities]
+[28Nov2024 20:52:33.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Charjabug.]
+[28Nov2024 20:52:39.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Charcadet.]
+[28Nov2024 20:52:51.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe sabes como se llama el perro eso
+[28Nov2024 20:52:56.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> el ese
+[28Nov2024 20:53:11.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> cual?
+[28Nov2024 20:53:35.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Riolu.]
+[28Nov2024 20:53:36.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> este
+[28Nov2024 20:53:45.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Rillaboom.]
+[28Nov2024 20:53:49.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
+[28Nov2024 20:53:58.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> riolu evolucina a lucarui
+[28Nov2024 20:54:03.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> lucario
+[28Nov2024 20:54:12.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
+[28Nov2024 20:54:22.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 50 entities]
+[28Nov2024 20:54:24.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
+[28Nov2024 20:54:28.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 9 entities]
+[28Nov2024 20:54:29.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
