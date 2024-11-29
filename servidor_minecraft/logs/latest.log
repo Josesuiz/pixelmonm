@@ -1,714 +1,295 @@
-[28Nov2024 19:02:50.040] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[28Nov2024 19:02:50.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[28Nov2024 19:02:51.700] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[28Nov2024 19:02:51.978] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/pixelmonm/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[28Nov2024 19:02:53.986] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 19:02:54.203] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 19:02:54.222] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 19:02:54.236] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 19:02:54.261] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[28Nov2024 19:02:58.648] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[28Nov2024 19:03:19.455] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[28Nov2024 19:03:19.478] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[28Nov2024 19:03:19.796] [modloading-worker-1/INFO] [Pixelmon/]: Patched lifecycle fields.
-[28Nov2024 19:03:31.093] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
-[28Nov2024 19:03:32.068] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
-[28Nov2024 19:03:32.260] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[28Nov2024 19:03:32.424] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
-[28Nov2024 19:03:32.468] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
-[28Nov2024 19:03:32.633] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
-[28Nov2024 19:03:36.713] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
-[28Nov2024 19:03:36.731] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
-[28Nov2024 19:03:36.773] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
-[28Nov2024 19:03:36.824] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
-[28Nov2024 19:03:37.012] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
-[28Nov2024 19:03:37.036] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
-[28Nov2024 19:03:38.532] [modloading-worker-0/INFO] [Pixelmon TCG/]: Loading TCG version 9.1.12
-[28Nov2024 19:03:38.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Nov2024 19:03:38.692] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registering forge reset packet
-[28Nov2024 19:03:38.694] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registered forge reset packet
-[28Nov2024 19:03:38.697] [modloading-worker-1/INFO] [Pixelmon/]: Loading Pixelmon version 9.1.12
-[28Nov2024 19:03:41.694] [modloading-worker-0/INFO] [Pixelmon TCG/]: Initializing Pixelmon TCG v9.1.12
-[28Nov2024 19:03:41.745] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
-[28Nov2024 19:03:42.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[28Nov2024 19:03:42.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[28Nov2024 19:03:42.877] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[29Nov2024 01:47:50.065] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[29Nov2024 01:47:50.074] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[29Nov2024 01:47:51.420] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[29Nov2024 01:47:51.670] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/pixelmonm/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[29Nov2024 01:47:53.490] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Nov2024 01:47:53.795] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Nov2024 01:47:53.822] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Nov2024 01:47:53.836] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Nov2024 01:47:53.849] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[29Nov2024 01:47:57.496] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[29Nov2024 01:48:19.687] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[29Nov2024 01:48:19.721] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[29Nov2024 01:48:20.063] [modloading-worker-1/INFO] [Pixelmon/]: Patched lifecycle fields.
+[29Nov2024 01:48:31.152] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Blocks registered!
+[29Nov2024 01:48:31.853] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Items registered!
+[29Nov2024 01:48:32.129] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[29Nov2024 01:48:32.353] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Entities registered!
+[29Nov2024 01:48:32.456] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Block Entities registered!
+[29Nov2024 01:48:32.668] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Sounds registered!
+[29Nov2024 01:48:36.107] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Biomes registered!
+[29Nov2024 01:48:36.123] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Registering block placer types!
+[29Nov2024 01:48:36.141] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Decorators registered!
+[29Nov2024 01:48:36.185] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Features registered!
+[29Nov2024 01:48:36.294] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Structures registered!
+[29Nov2024 01:48:36.301] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Surface builders Registered!
+[29Nov2024 01:48:38.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Nov2024 01:48:38.372] [modloading-worker-0/INFO] [Pixelmon TCG/]: Loading TCG version 9.1.12
+[29Nov2024 01:48:38.393] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registering forge reset packet
+[29Nov2024 01:48:38.395] [modloading-worker-1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Registered forge reset packet
+[29Nov2024 01:48:38.397] [modloading-worker-1/INFO] [Pixelmon/]: Loading Pixelmon version 9.1.12
+[29Nov2024 01:48:41.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[29Nov2024 01:48:41.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Nov2024 01:48:41.233] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[28Nov2024 19:03:42.877] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
-[28Nov2024 19:03:43.074] [modloading-worker-1/INFO] [Pixelmon/]: Loaded Advancements
-[28Nov2024 19:03:43.241] [modloading-worker-1/INFO] [Pixelmon/]: Started the async storage scheduler.
-[28Nov2024 19:03:43.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Found status: UP_TO_DATE Current: 9.1.12 Target: null
-[28Nov2024 19:03:43.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Starting version check at https://reforged.gg/forge/update.json
-[28Nov2024 19:03:43.468] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Found status: UP_TO_DATE Current: 9.1.12 Target: null
-[28Nov2024 19:03:44.215] [main/INFO] [journeymap/]: Initializing Packet Registries
-[28Nov2024 19:03:44.699] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
-[28Nov2024 19:03:44.701] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
-[28Nov2024 19:03:44.711] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
-[28Nov2024 19:03:44.713] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
-[28Nov2024 19:03:56.419] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Nov2024 19:03:58.557] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, ] and [spectate, target] with inputs: [words with spaces, "and symbols", word]
-[28Nov2024 19:03:58.565] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, target] and [spectate, ] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 19:03:58.572] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 19:03:58.581] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 19:03:58.582] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 19:03:58.583] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[28Nov2024 19:03:58.585] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[28Nov2024 19:03:58.594] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[28Nov2024 19:03:58.595] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[28Nov2024 19:03:59.277] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.3.jar, Pixelmon-1.16.5-9.1.12-server.jar, byg-1.3.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, NaturesCompass-1.16.5-1.9.1-forge.jar
-[28Nov2024 19:04:06.276] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
-[28Nov2024 19:04:08.424] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2005 advancements
-[28Nov2024 19:04:10.970] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Blood Moon
-[28Nov2024 19:04:11.127] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Syrup Bomb
-[28Nov2024 19:04:11.626] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Ivy Cudgel
-[28Nov2024 19:04:11.721] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Matcha Gotcha
-[28Nov2024 19:04:12.727] [Worker-Main-2/INFO] [Pixelmon/]: Registering Better Spawner.
-[28Nov2024 19:04:13.122] [Worker-Main-2/INFO] [Pixelmon/]: Registering trades.
-[28Nov2024 19:04:13.170] [Worker-Main-2/INFO] [Pixelmon/]: Registering shop items.
-[28Nov2024 19:04:25.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[28Nov2024 19:04:25.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Nov2024 19:04:25.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Nov2024 19:04:25.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Nov2024 19:04:25.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Nov2024 19:04:25.499] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[28Nov2024 19:04:25.683] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Nov2024 19:04:25.683] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Nov2024 19:04:25.684] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Nov2024 19:04:25.684] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Nov2024 19:04:25.749] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 19:04:25.759] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 19:04:25.762] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Nov2024 19:04:25.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Nov2024 19:04:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Nov2024 19:04:29.443] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.445] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.446] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.447] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.448] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.449] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.449] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:29.575] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[28Nov2024 19:04:30.078] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
-[28Nov2024 19:04:30.652] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
-[28Nov2024 19:04:31.131] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5072 ms
-[28Nov2024 19:04:31.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.420s)! For help, type "help"
-[28Nov2024 19:04:31.350] [Server thread/INFO] [Pixelmon/]: Datapacks found: vanilla,mod:forge,mod:journeymap,mod:pixelmon,mod:byg,mod:explorerscompass,mod:naturescompass
-[28Nov2024 19:04:55.258] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49319d8e
-[28Nov2024 19:04:55.306] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:51843] logged in with entity id 111 at (358.5, 63.0, 563.5)
-[28Nov2024 19:04:55.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 19:04:56.239] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
-[28Nov2024 19:04:56.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
-[28Nov2024 19:05:18.904] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@636dbb24
-[28Nov2024 19:05:18.928] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:40729] logged in with entity id 112 at (358.5, 63.0, 563.5)
-[28Nov2024 19:05:18.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 19:06:01.966] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@34e00714
-[28Nov2024 19:06:01.980] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:56971] logged in with entity id 147 at (-1854.579241541634, 66.9375, 600.3278985255239)
-[28Nov2024 19:06:02.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
-[28Nov2024 19:06:02.170] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest heal_team, resetting that instance!
-[28Nov2024 19:06:02.171] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest talk_to_npc, resetting that instance!
-[28Nov2024 19:06:02.173] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest find_village, resetting that instance!
-[28Nov2024 19:06:04.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Arthuro a server operator
-[28Nov2024 19:06:21.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [You picked a starter!]
-[28Nov2024 19:06:28.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
-[28Nov2024 19:06:42.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Sweet Dreams]
-[28Nov2024 19:06:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Creative Mode]
-[28Nov2024 19:07:08.501] [Server thread/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
-[28Nov2024 19:07:17.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:07:23.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> el mismo que eligio ese man
-[28Nov2024 19:07:24.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> A PELEARRRRR
-[28Nov2024 19:07:32.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> XD
-[28Nov2024 19:07:33.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> pero igual esta es una prueba para que veas como seraa
-[28Nov2024 19:07:53.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a
-[28Nov2024 19:07:58.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> lo malo que esta en ingles
-[28Nov2024 19:08:12.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> A ser vilingue
-[28Nov2024 19:08:22.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> AAAAAAAAAAAAAAAA
-[28Nov2024 19:08:30.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ambos son fuego que esperabas xd
-[28Nov2024 19:08:43.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Perdin ante el patriarcado .-.
-[28Nov2024 19:08:52.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:08:58.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> haber
-[28Nov2024 19:09:14.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> donde esta la enfermera joy?
-[28Nov2024 19:09:14.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> con la r sacas al pokemon que tienes
-[28Nov2024 19:09:29.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en este pueblo no esta
-[28Nov2024 19:09:36.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> justamente aqui no esta
-[28Nov2024 19:09:51.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:10:01.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set Arthuro's game mode to Creative Mode]
-[28Nov2024 19:10:06.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> vcen
-[28Nov2024 19:10:15.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set the time to 1000]
-[28Nov2024 19:10:50.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:10:55.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aqui esta
-[28Nov2024 19:11:19.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aqui dejas a los pokemones
-[28Nov2024 19:11:33.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aca haces intercambios de poke
-[28Nov2024 19:11:53.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> pa las evoluciones?
-[28Nov2024 19:12:02.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ni idea
-[28Nov2024 19:12:14.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> pero quiero creer que evolucionan como en los juegos
-[28Nov2024 19:12:28.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ganas la pelea y subes de nivel y de random evoluciona
-[28Nov2024 19:12:42.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> oeoeoe
-[28Nov2024 19:12:52.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> si he jugado los emuladores
-[28Nov2024 19:12:56.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:13:08.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> evolucionan a cierto nivel y en ciertas circunstansias
-[28Nov2024 19:13:12.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> jugastes el rojo, el esmeralda
-[28Nov2024 19:13:35.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ya las nuevas generaciones nada
-[28Nov2024 19:13:41.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> tan feas
-[28Nov2024 19:13:44.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> deje de jugar en el ruby omega (cuando metieron las megas)
-[28Nov2024 19:13:50.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> pero aqui estan las nuevas generaciones
-[28Nov2024 19:13:53.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> x y z
-[28Nov2024 19:13:55.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> lunas
-[28Nov2024 19:14:08.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> si te apoyo, tampoco me gusta las ultimas versiones
-[28Nov2024 19:14:08.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> incluso
-[28Nov2024 19:14:14.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> estan las cargas
-[28Nov2024 19:14:17.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> cartas
-[28Nov2024 19:14:19.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> vven
-[28Nov2024 19:14:49.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:15:04.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> comprale con eso las tcg
-[28Nov2024 19:15:19.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> toma
-[28Nov2024 19:15:44.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en yes
-[28Nov2024 19:16:05.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> wao
-[28Nov2024 19:16:07.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:16:26.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> justo en la nostalgia
-[28Nov2024 19:16:49.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ahora intenta atrapar a cualquier pomkemon
-[28Nov2024 19:17:36.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [It's a Mystery!]
-[28Nov2024 19:17:36.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Well, it’s One for the Money]
-[28Nov2024 19:17:36.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [A Pokémon of a different color.]
-[28Nov2024 19:17:36.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [What an Achieveement!]
-[28Nov2024 19:17:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:17:52.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> si le sabe
-[28Nov2024 19:18:03.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> enfermo
-[28Nov2024 19:19:09.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> -.-
-[28Nov2024 19:19:13.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> este no era el que tenia dos colas?
-[28Nov2024 19:19:17.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> o me equivoco?
-[28Nov2024 19:19:18.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> lo imaginaba mas grande
-[28Nov2024 19:19:22.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:19:28.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> si hay mas grandes
-[28Nov2024 19:19:43.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ese es ambipon que evoluciona en bypon o algo asi xd
-[28Nov2024 19:20:10.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> trepate en charizard
-[28Nov2024 19:20:17.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tu podras volar
-[28Nov2024 19:21:00.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:22:02.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> kakana
-[28Nov2024 19:24:34.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set the time to 1000]
-[28Nov2024 19:24:41.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Arthuro: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:24:55.677] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD was kicked for floating a vehicle too long!
-[28Nov2024 19:24:55.679] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Flying is not enabled on this server
-[28Nov2024 19:24:55.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
-[28Nov2024 19:24:55.741] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Nov2024 19:25:20.178] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@106e6bc9
-[28Nov2024 19:25:20.193] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:52465] logged in with entity id 2381 at (-1945.2860986378448, 139.48775156991965, 660.7141122029325)
-[28Nov2024 19:25:20.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
-[28Nov2024 19:25:44.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:26:06.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:26:48.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:27:15.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> dale
-[28Nov2024 19:27:51.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
-[28Nov2024 19:27:56.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:28:13.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> hay lengendarios?
-[28Nov2024 19:28:17.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> se
-[28Nov2024 19:28:33.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [It's a Mystery!]
-[28Nov2024 19:28:33.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Not getting away this time!]
-[28Nov2024 19:28:33.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [A Pokémon of a different color.]
-[28Nov2024 19:28:33.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [What an Achieveement!]
-[28Nov2024 19:28:42.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> cuando salen te muestran un mensaje en el chat que aparecio
-[28Nov2024 19:29:54.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a lado derecho abajo te salen las teclas para abrir la pokedex misiones y tu tarjeta de entrenador
-[28Nov2024 19:29:57.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> este es el que decias
-[28Nov2024 19:31:26.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> BAJA CAGON
-[28Nov2024 19:31:32.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:32:03.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Que le corto las alas al mamon xd
-[28Nov2024 19:32:26.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> O:O
-[28Nov2024 19:32:31.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Que mierda
-[28Nov2024 19:32:33.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> sjsjjs
-[28Nov2024 19:32:48.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> esta paralizado, mas el ataque de aire
-[28Nov2024 19:33:00.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
-[28Nov2024 19:33:11.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> creo que estoy oxidado con pokemon xd
-[28Nov2024 19:34:45.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> me encanta este mod
-[28Nov2024 19:36:09.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
-[28Nov2024 19:36:13.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ta weno
-[28Nov2024 19:36:19.205] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0
-[28Nov2024 19:36:19.255] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7069707462123915
-[28Nov2024 19:36:19.305] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.5457999375100826
-[28Nov2024 19:36:19.393] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.508424949809978
-[28Nov2024 19:36:19.455] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6901347854027335
-[28Nov2024 19:36:19.558] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6764814387363458
-[28Nov2024 19:36:19.605] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7797559721411744
-[28Nov2024 19:36:19.656] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6469282745538294
-[28Nov2024 19:36:20.455] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.57224486275652
-[28Nov2024 19:36:20.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.449705293146053
-[28Nov2024 19:36:20.549] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.4904804884340592
-[28Nov2024 19:36:20.649] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.6186421582740422
-[28Nov2024 19:36:20.849] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.762113143217789
-[28Nov2024 19:36:21.004] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.8908708004611299
-[28Nov2024 19:36:21.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.2933668289160778
-[28Nov2024 19:36:21.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7630813061851995
-[28Nov2024 19:36:21.206] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6999723333492511
-[28Nov2024 19:36:21.449] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.763106234955444
-[28Nov2024 19:36:21.449] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.692798019167526
-[28Nov2024 19:36:21.493] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.151412780731448
-[28Nov2024 19:36:21.544] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.9318884580034137
-[28Nov2024 19:36:21.594] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.3495054319054134
-[28Nov2024 19:36:21.644] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.5729639482561879
-[28Nov2024 19:36:22.004] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.1339997889032247
-[28Nov2024 19:36:22.046] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.7476340306656084
-[28Nov2024 19:36:35.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.5099674792775204
-[28Nov2024 19:36:35.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.0
-[28Nov2024 19:36:35.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.5099674792775204
-[28Nov2024 19:36:35.506] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.7101036724155847
-[28Nov2024 19:36:35.506] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.4625199186378943
-[28Nov2024 19:36:35.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.630814683618155
-[28Nov2024 19:36:35.656] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.9122349691676845
-[28Nov2024 19:36:35.657] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.0
-[28Nov2024 19:36:35.745] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.4894440004034095
-[28Nov2024 19:36:36.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.8444355883380013
-[28Nov2024 19:36:36.157] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.0
-[28Nov2024 19:36:36.845] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.39128552782358383
-[28Nov2024 19:36:36.846] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.1408053603902777
-[28Nov2024 19:36:36.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.813625825020424
-[28Nov2024 19:36:36.907] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.8688617097809903
-[28Nov2024 19:36:37.005] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 4.238463844239285
-[28Nov2024 19:36:37.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 5.657157528368273
-[28Nov2024 19:36:38.293] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6198551523268634
-[28Nov2024 19:36:38.345] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.2709978156003672
-[28Nov2024 19:36:38.393] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.9398541317632407
-[28Nov2024 19:36:38.445] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.3036373870557736
-[28Nov2024 19:36:38.507] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.5634246517927295
-[28Nov2024 19:36:38.571] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0675959558672048
-[28Nov2024 19:36:38.706] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.9315511050995156
-[28Nov2024 19:36:38.707] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.5820523822699215
-[28Nov2024 19:36:38.856] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0777570428168701
-[28Nov2024 19:36:38.956] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.3238717434459204
-[28Nov2024 19:36:39.297] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.28192327892156754
-[28Nov2024 19:36:39.397] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.9223310445335415
-[28Nov2024 19:36:39.398] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6850279557038448
-[28Nov2024 19:36:39.656] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.33698303191386003
-[28Nov2024 19:36:39.705] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7738990677651145
-[28Nov2024 19:36:39.763] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.35213805542503
-[28Nov2024 19:36:39.792] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 2.0539557844361345
-[28Nov2024 19:36:39.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.601869892511786
-[28Nov2024 19:36:40.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7595018390230734
-[28Nov2024 19:36:40.206] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.9208356202673258
-[28Nov2024 19:36:40.207] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.1557146460562535
-[28Nov2024 19:36:40.259] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.8240350252406188
-[28Nov2024 19:36:40.455] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.6982010197507407
-[28Nov2024 19:36:40.568] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.8968636471797709
-[28Nov2024 19:36:40.614] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.867210278870516
-[28Nov2024 19:36:43.057] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.9535831102209135
-[28Nov2024 19:36:43.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.8843903765309733
-[28Nov2024 19:36:43.245] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.7975048971752585
-[28Nov2024 19:36:43.246] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 2.8064406333435272
-[28Nov2024 19:36:43.564] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.42409284963468963
-[28Nov2024 19:36:43.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0559003578850934
-[28Nov2024 19:36:43.607] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.4521679224912987
-[28Nov2024 19:36:43.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.7424405065441988
-[28Nov2024 19:36:43.699] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.9796643274080452
-[28Nov2024 19:36:45.505] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.683576523298143
-[28Nov2024 19:36:45.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0
-[28Nov2024 19:36:45.616] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 1.0
-[28Nov2024 19:36:45.806] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.4644589236936554
-[28Nov2024 19:36:45.906] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of ThebrosXD) moved wrongly! 0.7477169430219419
-[28Nov2024 19:36:47.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tambien es del mod?
-[28Nov2024 19:36:51.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> se
-[28Nov2024 19:36:57.806] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.5679074072970675
-[28Nov2024 19:36:57.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.7435795296051821
-[28Nov2024 19:36:57.856] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 3.054365078515733
-[28Nov2024 19:36:58.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.7504473240195539
-[28Nov2024 19:36:58.407] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.6354744654163331
-[28Nov2024 19:36:58.497] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.801140342237047
-[28Nov2024 19:36:58.498] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 3.0833780305014624
-[28Nov2024 19:36:58.571] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 4.44292405059574
-[28Nov2024 19:36:58.657] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.4254138998719152
-[28Nov2024 19:36:58.658] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.393801778126129
-[28Nov2024 19:36:58.757] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.2041502363316565
-[28Nov2024 19:36:58.758] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.5344595150882467
-[28Nov2024 19:36:58.907] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.3964399052458412
-[28Nov2024 19:36:58.908] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.829113317560075
-[28Nov2024 19:36:58.908] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 4.281466832253827
-[28Nov2024 19:36:59.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.4619892838438906
-[28Nov2024 19:36:59.007] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.449886841187315
-[28Nov2024 19:36:59.108] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 3.656162599633467
-[28Nov2024 19:36:59.110] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 4.983524137825115
-[28Nov2024 19:36:59.207] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.3984067939739147
-[28Nov2024 19:36:59.208] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.352365357948715
-[28Nov2024 19:36:59.356] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.1963899959088449
-[28Nov2024 19:36:59.357] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 2.484483135782215
-[28Nov2024 19:36:59.456] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 3.852911109367057
-[28Nov2024 19:36:59.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 0.9879613541836534
-[28Nov2024 19:36:59.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.4036373046044734
-[28Nov2024 19:36:59.546] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.627280220574584
-[28Nov2024 19:36:59.546] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Acro Bike (vehicle of Arthuro) moved wrongly! 1.8790151455551156
-[28Nov2024 19:39:32.313] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD moved too quickly! 6.546430421877176,1.6882464670848805,-8.18112141164147
-[28Nov2024 19:39:40.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> que bicho pa mas feo xd
-[28Nov2024 19:39:51.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ni idea por existe
-[28Nov2024 19:40:08.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:40:18.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> mira
-[28Nov2024 19:40:21.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> mira
-[28Nov2024 19:40:24.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:40:32.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> legendario
-[28Nov2024 19:40:34.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Mega gyarados
-[28Nov2024 19:40:37.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> :o
-[28Nov2024 19:40:39.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> pero este es boss
-[28Nov2024 19:40:46.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> CHINYYYYYYY
-[28Nov2024 19:41:00.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> no se puede xd
-[28Nov2024 19:41:27.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> nivel 76 ese gyarados xd
-[28Nov2024 19:41:35.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> un electrico aqui
-[28Nov2024 19:41:42.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> o tierra creo
-[28Nov2024 19:42:00.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> me violo
-[28Nov2024 19:42:02.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
-[28Nov2024 19:42:02.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 19:44:11.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 19:44:24.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> y eso?
-[28Nov2024 19:44:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> nose
-[28Nov2024 19:44:57.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> supongo que hay que derrotar a cubone
-[28Nov2024 19:45:09.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> esto tiene que ser de la nueva generacion de aqui si no se xd
-[28Nov2024 19:45:21.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a de ser eso
-[28Nov2024 19:45:53.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe elige
-[28Nov2024 19:47:07.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> no estoy entendiendo nada
-[28Nov2024 19:47:25.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ya elegi
-[28Nov2024 19:47:32.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> pero no ataca xd
-[28Nov2024 19:47:43.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> esperandin dice
-[28Nov2024 19:47:45.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> lol
-[28Nov2024 19:47:47.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> :o
-[28Nov2024 19:47:52.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> XD
-[28Nov2024 19:47:54.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> XD
-[28Nov2024 19:47:55.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe
-[28Nov2024 19:48:06.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Se murio
-[28Nov2024 19:48:08.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> un charmeleon
-[28Nov2024 19:48:39.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> pregunta
-[28Nov2024 19:49:02.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> se empieza con 100 masterballs supongo no? :v
-[28Nov2024 19:49:13.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> no :v
-[28Nov2024 19:49:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=west,multipos=top] but failed at location BlockPos{x=-1453, y=71, z=52}
-[28Nov2024 19:49:32.014] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:cooking_pot}[facing=south,multipos=top] but failed at location BlockPos{x=-1445, y=71, z=53}
-[28Nov2024 19:49:32.516] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD moved too quickly! -2.8472529315740758,0.0,-9.695357114207136
-[28Nov2024 19:52:58.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Only took me four tries *Fist pump*]
-[28Nov2024 19:53:02.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD gave ThebrosXD a Arceus!]
-[28Nov2024 19:53:06.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Arthuro]
-[28Nov2024 19:53:16.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> te voy a ensaeñar a mew
-[28Nov2024 19:53:37.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ese no se parece a mew
-[28Nov2024 19:53:42.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
-[28Nov2024 19:53:43.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD was kicked for floating a vehicle too long!
-[28Nov2024 19:53:43.809] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Flying is not enabled on this server
-[28Nov2024 19:53:43.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
-[28Nov2024 19:53:43.856] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[28Nov2024 19:53:56.023] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6bd86e56
-[28Nov2024 19:53:56.033] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:52433] logged in with entity id 5738 at (-1663.202880859375, 131.65916486372655, 257.703857421875)
-[28Nov2024 19:53:56.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
-[28Nov2024 19:54:08.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en donde vive el mow
-[28Nov2024 19:54:19.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> hay que ir a su tierra
-[28Nov2024 19:54:56.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tal vez
-[28Nov2024 19:55:40.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Poliwag.]
-[28Nov2024 19:55:48.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Mew.]
-[28Nov2024 19:56:12.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Not getting away this time!]
-[28Nov2024 19:56:12.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Well um technically it’s Mythical…]
-[28Nov2024 19:56:12.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Legend… wait for it… dary!!!]
-[28Nov2024 19:56:31.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Mewtwo.]
-[28Nov2024 19:57:29.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Legend… wait for it… dary!!!]
-[28Nov2024 19:57:29.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Behold my powers!]
-[28Nov2024 19:57:36.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Wormadam.]
-[28Nov2024 19:59:44.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> NADA PUEDE ANTE EL PODER DE MEWTWO
-[28Nov2024 20:00:06.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
-[28Nov2024 20:00:22.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> XD
-[28Nov2024 20:01:13.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ponte a charizard
-[28Nov2024 20:01:15.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [The Final Frontier]
-[28Nov2024 20:01:17.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Ultra Threatening Thorns]
-[28Nov2024 20:01:17.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tengo su conter
-[28Nov2024 20:01:27.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [The Final Frontier]
-[28Nov2024 20:01:27.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:01:27.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Ultra Threatening Thorns]
-[28Nov2024 20:01:41.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
-[28Nov2024 20:01:46.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> estamos en el espacio
-[28Nov2024 20:01:48.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> creo
-[28Nov2024 20:03:16.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:03:25.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:03:49.656] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
-[28Nov2024 20:03:49.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
-[28Nov2024 20:04:27.752] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD moved too quickly! 1980.3000741674266,-150.3250047415495,360.0803899311876
-[28Nov2024 20:04:36.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
-[28Nov2024 20:05:15.612] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2c4f842
-[28Nov2024 20:05:15.626] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:51469] logged in with entity id 7382 at (-1621.9354338528465, 78.0, 228.30000001192093)
-[28Nov2024 20:05:15.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 20:05:15.726] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest talk_to_npc, resetting that instance!
-[28Nov2024 20:05:15.727] [Server thread/WARN] [Pixelmon/]: Found invalid objective progress data in an instance of quest find_village, resetting that instance!
-[28Nov2024 20:05:16.085] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
-[28Nov2024 20:05:16.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
-[28Nov2024 20:05:59.758] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b37003b
-[28Nov2024 20:05:59.764] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:39443] logged in with entity id 7458 at (-1621.9354338528465, 78.0, 228.30000001192093)
-[28Nov2024 20:05:59.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 20:06:14.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:06:29.952] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Timed out
-[28Nov2024 20:06:29.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
-[28Nov2024 20:06:44.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Rayquaza.]
-[28Nov2024 20:07:07.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Wind rider!]
-[28Nov2024 20:08:47.386] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3799922503928883
-[28Nov2024 20:08:47.422] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.9560573773301826
-[28Nov2024 20:08:47.470] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.6361950581940619
-[28Nov2024 20:08:47.545] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3712052937255521
-[28Nov2024 20:08:47.554] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.1347596496244705
-[28Nov2024 20:08:47.654] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.570722323067883
-[28Nov2024 20:08:47.754] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.7524833747903895
-[28Nov2024 20:08:47.804] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.38005125709969434
-[28Nov2024 20:08:47.949] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3704561797239876
-[28Nov2024 20:08:48.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.3596859188449457
-[28Nov2024 20:08:48.056] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.1061710084360357
-[28Nov2024 20:08:48.107] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.815001281659761
-[28Nov2024 20:08:48.157] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.4794831768882091
-[28Nov2024 20:08:48.406] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.35008358532536477
-[28Nov2024 20:08:48.457] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.9316901528790709
-[28Nov2024 20:08:48.507] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 1.6738779414675946
-[28Nov2024 20:08:48.581] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 2.4745581028649895
-[28Nov2024 20:08:48.649] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Rayquaza (vehicle of ThebrosXD) moved wrongly! 0.30195929819200273
-[28Nov2024 20:09:34.572] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:orange_chair}[facing=south] but failed at location BlockPos{x=286, y=61, z=263}
-[28Nov2024 20:11:43.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Vikavolt.]
-[28Nov2024 20:13:13.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lugia.]
-[28Nov2024 20:13:29.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Aww it’s not XD001]
-[28Nov2024 20:13:50.108] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4251f787
-[28Nov2024 20:13:50.115] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:39979] logged in with entity id 7641 at (400.95761647770865, 110.0, 561.2249288244207)
-[28Nov2024 20:13:50.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 20:13:50.853] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro lost connection: Disconnected
-[28Nov2024 20:13:50.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro left the game
-[28Nov2024 20:14:00.609] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d26d24a
-[28Nov2024 20:14:00.623] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Arthuro[/127.207.17.91:44583] logged in with entity id 7651 at (400.95761647770865, 110.0, 561.2249288244207)
-[28Nov2024 20:14:00.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro joined the game
-[28Nov2024 20:14:46.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> esta chiquito
-[28Nov2024 20:15:17.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lotad.]
-[28Nov2024 20:15:33.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lunala.]
-[28Nov2024 20:15:56.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Solgaleo.]
-[28Nov2024 20:16:02.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> como lo haces xd
-[28Nov2024 20:16:18.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Entei.]
-[28Nov2024 20:16:22.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Entei.]
-[28Nov2024 20:16:43.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Raikou.]
-[28Nov2024 20:16:49.049] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Aggron (vehicle of Arthuro) moved wrongly! 0.47646805860358654
-[28Nov2024 20:16:51.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 20:17:03.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
-[28Nov2024 20:17:09.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
-[28Nov2024 20:17:16.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Moltres.]
-[28Nov2024 20:17:42.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Thunder! Thunder! Thunder… no wait wrong]
-[28Nov2024 20:18:02.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Kyogre.]
-[28Nov2024 20:18:11.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> se ahoga :o
-[28Nov2024 20:18:13.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Groudon.]
-[28Nov2024 20:18:18.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> el groudon
-[28Nov2024 20:18:31.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> decia kyogre
-[28Nov2024 20:18:35.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> es de agua xd
-[28Nov2024 20:18:41.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aa
-[28Nov2024 20:18:57.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dialga.]
-[28Nov2024 20:19:12.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Giratina.]
-[28Nov2024 20:19:23.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Girafarig.]
-[28Nov2024 20:20:11.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Meowstic.]
-[28Nov2024 20:20:34.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Meowth.]
-[28Nov2024 20:20:36.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> Y cuando se abre el juego real? xd
-[28Nov2024 20:20:52.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> cuando esten todos
-[28Nov2024 20:21:26.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD fell out of the world
-[28Nov2024 20:21:26.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed ThebrosXD]
-[28Nov2024 20:21:33.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:21:34.101] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:21:34.101] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:21:41.553] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:21:41.553] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:21:44.004] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:21:44.004] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
-[28Nov2024 20:22:41.731] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-946, y=65, z=1322}
-[28Nov2024 20:22:41.765] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-945, y=66, z=1260}
-[28Nov2024 20:22:41.828] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-965, y=66, z=1275}
-[28Nov2024 20:22:42.184] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-945, y=65, z=1348}
-[28Nov2024 20:22:42.199] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1003, y=67, z=1265}
-[28Nov2024 20:22:42.200] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-879, y=67, z=1331}
-[28Nov2024 20:22:42.340] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-898, y=66, z=1374}
-[28Nov2024 20:22:42.413] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1023, y=66, z=1332}
-[28Nov2024 20:22:42.414] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-878, y=67, z=1372}
-[28Nov2024 20:22:42.415] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1008, y=63, z=1361}
-[28Nov2024 20:22:42.415] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1009, y=63, z=1361}
-[28Nov2024 20:22:42.481] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-1011, y=67, z=1304}
-[28Nov2024 20:22:43.062] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-875, y=66, z=1397}
-[28Nov2024 20:22:43.329] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:furnace @ BlockPos{x=-974, y=66, z=1410}
-[28Nov2024 20:22:43.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:22:59.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> MATADLOOOOOOOOO
-[28Nov2024 20:23:31.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe te esta ganando un meowth :v
-[28Nov2024 20:23:40.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 20:23:53.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> xd
-[28Nov2024 20:25:12.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> PLATA
-[28Nov2024 20:25:18.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> tengo PLATA
-[28Nov2024 20:25:23.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ven
-[28Nov2024 20:25:46.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:26:39.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 20:27:42.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> hija de ...
-[28Nov2024 20:27:58.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> que feo
-[28Nov2024 20:28:24.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aca hay otro
-[28Nov2024 20:28:31.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:29:17.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:30:05.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> aunque me va lag
-[28Nov2024 20:30:25.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en esta parte si
-[28Nov2024 20:30:40.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:31:48.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> ooo
-[28Nov2024 20:32:08.512] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at com.pixelmonmod.pixelmon.items.heldItems.BrightPowderItem.func_195939_a(BrightPowderItem.java:69) ~[pixelmon:1.16.5-9.1.12]
-	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
-	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
-	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[28Nov2024 20:32:09.529] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at com.pixelmonmod.pixelmon.items.heldItems.BrightPowderItem.func_195939_a(BrightPowderItem.java:69) ~[pixelmon:1.16.5-9.1.12]
-	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
-	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
-	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[28Nov2024 20:32:16.761] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 0.9681317668944303
-[28Nov2024 20:32:16.762] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
-[28Nov2024 20:32:16.862] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
-[28Nov2024 20:32:16.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
-[28Nov2024 20:32:16.912] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Infernape (vehicle of Arthuro) moved wrongly! 1.125
-[28Nov2024 20:32:26.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> shif
-[28Nov2024 20:32:33.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> salta
-[28Nov2024 20:33:24.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:34:11.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> y eso
-[28Nov2024 20:34:29.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> todo bien entonces?
-[28Nov2024 20:34:44.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Survival Mode]
-[28Nov2024 20:34:50.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Spectator Mode]
-[28Nov2024 20:34:58.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Survival Mode]
-[28Nov2024 20:37:29.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a
-[28Nov2024 20:41:51.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> de donde porongas sacas tantos legendarios tramposo
-[28Nov2024 20:41:57.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xD
-[28Nov2024 20:44:05.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> todo falla
-[28Nov2024 20:44:07.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> :v
-[28Nov2024 20:44:46.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ambipom mpv
-[28Nov2024 20:44:52.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 20:44:57.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> aguanto todo
-[28Nov2024 20:45:34.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> siendo tramposo cualquiera gana
-[28Nov2024 20:45:37.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> .-.
-[28Nov2024 20:46:09.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonair.]
-[28Nov2024 20:46:12.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> toma
-[28Nov2024 20:46:16.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonite.]
-[28Nov2024 20:46:21.592] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Arthuro moved too quickly! 904.4663767008199,-3.0,-1366.2984389230862
-[28Nov2024 20:46:21.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
-[28Nov2024 20:46:22.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported Arthuro to ThebrosXD]
-[28Nov2024 20:46:28.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Dragonite.]
-[28Nov2024 20:47:10.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Aerodactyl.]
-[28Nov2024 20:47:57.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Zigzagoon.]
-[28Nov2024 20:48:06.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Squirtle.]
-[28Nov2024 20:48:29.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:36.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:49.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:50.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:51.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:52.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:53.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:48:54.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:49:04.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:49:05.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:49:07.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Piplup.]
-[28Nov2024 20:49:37.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machamp.]
-[28Nov2024 20:49:52.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machamp.]
-[28Nov2024 20:49:59.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Machoke.]
-[28Nov2024 20:51:06.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
-[28Nov2024 20:51:12.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
-[28Nov2024 20:51:18.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lapras.]
-[28Nov2024 20:51:24.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set own game mode to Creative Mode]
-[28Nov2024 20:51:54.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 75 entities]
-[28Nov2024 20:52:33.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Charjabug.]
-[28Nov2024 20:52:39.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Charcadet.]
-[28Nov2024 20:52:51.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> oe sabes como se llama el perro eso
-[28Nov2024 20:52:56.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> el ese
-[28Nov2024 20:53:11.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> cual?
-[28Nov2024 20:53:35.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Riolu.]
-[28Nov2024 20:53:36.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> este
-[28Nov2024 20:53:45.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Rillaboom.]
-[28Nov2024 20:53:49.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> xd
-[28Nov2024 20:53:58.589] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> riolu evolucina a lucarui
-[28Nov2024 20:54:03.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> lucario
-[28Nov2024 20:54:12.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:22.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 50 entities]
-[28Nov2024 20:54:24.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:28.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 9 entities]
-[28Nov2024 20:54:29.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:35.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:36.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:37.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:38.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:39.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:40.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:44.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 42 entities]
-[28Nov2024 20:54:45.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Lucario.]
-[28Nov2024 20:54:57.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Vaporeon.]
-[28Nov2024 20:55:03.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Vaporeon.]
-[28Nov2024 20:55:07.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 33 entities]
-[28Nov2024 20:55:08.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: ThebrosXD successfully spawned Vaporeon.]
-[28Nov2024 20:57:49.261] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
-java.lang.NullPointerException: null
-	at com.pixelmonmod.pixelmon.items.heldItems.BrightPowderItem.func_195939_a(BrightPowderItem.java:69) ~[pixelmon:1.16.5-9.1.12]
-	at net.minecraftforge.common.ForgeHooks.onPlaceItemIntoWorld(ForgeHooks.java:637) ~[forge:?]
-	at net.minecraft.item.ItemStack.func_196084_a(ItemStack.java:186) ~[?:?]
-	at net.minecraft.server.management.PlayerInteractionManager.func_219441_a(PlayerInteractionManager.java:350) ~[?:?]
-	at net.minecraft.network.play.ServerPlayNetHandler.func_184337_a(ServerPlayNetHandler.java:958) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:36) ~[?:?]
-	at net.minecraft.network.play.client.CPlayerTryUseItemOnBlockPacket.func_148833_a(SourceFile:10) ~[?:?]
-	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
-	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
-	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
-	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[28Nov2024 20:58:15.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro has made the advancement [Cover Me With Diamonds]
-[28Nov2024 21:00:50.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro fell out of the world
-[28Nov2024 21:00:50.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD fell out of the world
-[28Nov2024 21:00:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 2 entities]
-[28Nov2024 21:00:57.762] [Server thread/WARN] [net.minecraft.loot.LootTable/]: Tried to over-fill a container
-[28Nov2024 21:01:01.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> KHE?
-[28Nov2024 21:01:08.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD fell out of the world
-[28Nov2024 21:01:08.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Arthuro fell out of the world
-[28Nov2024 21:01:08.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Killed 2 entities]
-[28Nov2024 21:01:58.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> weno entonces
-[28Nov2024 21:02:09.163] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> a que hora se te va la luz?
-[28Nov2024 21:02:20.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Set the weather to clear]
-[28Nov2024 21:02:23.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> ya mesmo a las 6
-[28Nov2024 21:02:31.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> en el dia
-[28Nov2024 21:02:36.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> dime tu horairo
-[28Nov2024 21:02:57.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> de 9 a 12 y de 6 a 22
-[28Nov2024 21:03:04.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> visijue XD
-[28Nov2024 21:03:28.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> se son hermosos
-[28Nov2024 21:03:28.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> tienes un horario feo
-[28Nov2024 21:03:50.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> pos que te digo
-[28Nov2024 21:04:04.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> lo bueno es que siempre estoy conectado pero no tengo el pc xd
-[28Nov2024 21:04:07.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> tan de noche no puedo
-[28Nov2024 21:04:19.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Arthuro> por?
-[28Nov2024 21:04:23.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> y ese no puede en la tarde
-[28Nov2024 21:04:30.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> tu no puedes en la mañana
-[28Nov2024 21:04:37.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ThebrosXD> tengo clases de noche
+[29Nov2024 01:48:41.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[29Nov2024 01:48:41.303] [modloading-worker-0/INFO] [Pixelmon TCG/]: Initializing Pixelmon TCG v9.1.12
+[29Nov2024 01:48:41.372] [modloading-worker-0/INFO] [corgiaoc.byg.BYG/]: BYG: "Common Setup" Event Complete!
+[29Nov2024 01:48:41.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pixelmon] Found status: UP_TO_DATE Current: 9.1.12 Target: null
+[29Nov2024 01:48:41.694] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Starting version check at https://reforged.gg/forge/update.json
+[29Nov2024 01:48:41.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tcg] Found status: UP_TO_DATE Current: 9.1.12 Target: null
+[29Nov2024 01:48:42.274] [modloading-worker-1/INFO] [Pixelmon/]: Loaded Advancements
+[29Nov2024 01:48:42.491] [modloading-worker-1/INFO] [Pixelmon/]: Started the async storage scheduler.
+[29Nov2024 01:48:43.635] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Nov2024 01:48:44.249] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Compostible Blocks Added!
+[29Nov2024 01:48:44.252] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Hoeable Blocks!
+[29Nov2024 01:48:44.267] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added Flammables!
+[29Nov2024 01:48:44.277] [main/INFO] [corgiaoc.byg.BYG/]: BYG: Added strippable Blocks...
+[29Nov2024 01:49:00.112] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Nov2024 01:49:02.325] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, ] and [spectate, target] with inputs: [words with spaces, "and symbols", word]
+[29Nov2024 01:49:02.332] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [spectate, target] and [spectate, ] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Nov2024 01:49:02.336] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Nov2024 01:49:02.345] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Nov2024 01:49:02.350] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Nov2024 01:49:02.367] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[29Nov2024 01:49:02.369] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[29Nov2024 01:49:02.371] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[29Nov2024 01:49:02.373] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[29Nov2024 01:49:02.954] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.3.jar, Pixelmon-1.16.5-9.1.12-server.jar, byg-1.3.6.jar, ExplorersCompass-1.16.5-1.1.2-forge.jar, NaturesCompass-1.16.5-1.9.1-forge.jar
+[29Nov2024 01:49:13.722] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[29Nov2024 01:49:16.821] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2005 advancements
+[29Nov2024 01:49:21.190] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Blood Moon
+[29Nov2024 01:49:21.681] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Syrup Bomb
+[29Nov2024 01:49:22.874] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Ivy Cudgel
+[29Nov2024 01:49:22.973] [Worker-Main-2/WARN] [Pixelmon/]: Attack name invalid: Matcha Gotcha
+[29Nov2024 01:49:24.814] [Worker-Main-2/INFO] [Pixelmon/]: Registering Better Spawner.
+[29Nov2024 01:49:26.252] [Worker-Main-2/INFO] [Pixelmon/]: Registering trades.
+[29Nov2024 01:49:26.360] [Worker-Main-2/INFO] [Pixelmon/]: Registering shop items.
+[29Nov2024 01:49:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[29Nov2024 01:49:40.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Nov2024 01:49:40.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Nov2024 01:49:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Nov2024 01:49:40.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Nov2024 01:49:40.576] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[29Nov2024 01:49:40.979] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Nov2024 01:49:40.979] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Nov2024 01:49:40.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Nov2024 01:49:40.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Nov2024 01:49:41.054] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/journeymap-server.toml is not correct. Correcting
+[29Nov2024 01:49:41.066] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[29Nov2024 01:49:41.066] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
+[29Nov2024 01:49:41.076] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
+[29Nov2024 01:49:41.077] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Nov2024 01:49:41.086] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Nov2024 01:49:41.078] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[29Nov2024 01:49:41.089] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[29Nov2024 01:49:41.089] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[29Nov2024 01:49:41.090] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
+[29Nov2024 01:49:41.091] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[29Nov2024 01:49:41.094] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[29Nov2024 01:49:41.102] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[29Nov2024 01:49:41.104] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
+[29Nov2024 01:49:41.108] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
+[29Nov2024 01:49:41.112] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
+[29Nov2024 01:49:41.117] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
+[29Nov2024 01:49:41.124] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
+[29Nov2024 01:49:41.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Nov2024 01:49:53.839] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Nov2024 01:50:07.243] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:07.302] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:07.996] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:08.337] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:08.825] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:10.936] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:10.949] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:10.951] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:10.954] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:11.307] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:11.865] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:12.476] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:12.930] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:13.487] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[29Nov2024 01:50:13.853] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:14.322] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:14.816] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:15.466] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:15.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:16.303] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:16.831] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:17.337] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:17.910] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
+[29Nov2024 01:50:18.445] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:18.703] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:18.810] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:19.330] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:19.803] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:20.745] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:20.954] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:21.479] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 2%
+[29Nov2024 01:50:21.992] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[29Nov2024 01:50:22.326] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 4%
+[29Nov2024 01:50:22.872] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[29Nov2024 01:50:23.302] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
+[29Nov2024 01:50:24.119] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[29Nov2024 01:50:24.357] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[29Nov2024 01:50:24.921] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
+[29Nov2024 01:50:25.342] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[29Nov2024 01:50:25.805] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[29Nov2024 01:50:26.334] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 8%
+[29Nov2024 01:50:26.803] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[29Nov2024 01:50:27.370] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
+[29Nov2024 01:50:27.852] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[29Nov2024 01:50:28.343] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
+[29Nov2024 01:50:28.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 11%
+[29Nov2024 01:50:29.277] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:29.305] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 12%
+[29Nov2024 01:50:29.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
+[29Nov2024 01:50:30.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 14%
+[29Nov2024 01:50:30.851] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
+[29Nov2024 01:50:31.302] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[29Nov2024 01:50:31.901] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 16%
+[29Nov2024 01:50:32.316] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29Nov2024 01:50:32.808] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29Nov2024 01:50:33.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29Nov2024 01:50:33.813] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 17%
+[29Nov2024 01:50:34.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 19%
+[29Nov2024 01:50:34.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[29Nov2024 01:50:35.312] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 20%
+[29Nov2024 01:50:35.816] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 21%
+[29Nov2024 01:50:36.322] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 22%
+[29Nov2024 01:50:37.273] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 23%
+[29Nov2024 01:50:37.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 24%
+[29Nov2024 01:50:37.826] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[29Nov2024 01:50:39.040] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[29Nov2024 01:50:39.041] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
+[29Nov2024 01:50:39.561] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 27%
+[29Nov2024 01:50:39.696] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:39.827] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 27%
+[29Nov2024 01:50:40.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[29Nov2024 01:50:40.809] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 28%
+[29Nov2024 01:50:41.431] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
+[29Nov2024 01:50:41.805] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 30%
+[29Nov2024 01:50:42.313] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 31%
+[29Nov2024 01:50:42.946] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 32%
+[29Nov2024 01:50:43.313] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 33%
+[29Nov2024 01:50:43.801] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[29Nov2024 01:50:44.304] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 35%
+[29Nov2024 01:50:44.803] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 36%
+[29Nov2024 01:50:45.361] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 37%
+[29Nov2024 01:50:45.849] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[29Nov2024 01:50:46.339] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[29Nov2024 01:50:46.808] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[29Nov2024 01:50:47.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 41%
+[29Nov2024 01:50:47.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 42%
+[29Nov2024 01:50:48.811] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[29Nov2024 01:50:48.812] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 43%
+[29Nov2024 01:50:49.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[29Nov2024 01:50:49.650] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:49.836] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 44%
+[29Nov2024 01:50:50.331] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 46%
+[29Nov2024 01:50:50.804] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[29Nov2024 01:50:51.337] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
+[29Nov2024 01:50:52.025] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[29Nov2024 01:50:52.343] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[29Nov2024 01:50:52.829] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[29Nov2024 01:50:53.308] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 51%
+[29Nov2024 01:50:53.403] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:50:53.881] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 51%
+[29Nov2024 01:50:54.305] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 52%
+[29Nov2024 01:50:54.837] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 53%
+[29Nov2024 01:50:55.358] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 54%
+[29Nov2024 01:50:55.817] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[29Nov2024 01:50:56.134] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.160] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.161] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.162] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.166] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.169] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.171] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.213] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.259] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.273] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.299] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.342] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.347] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.347] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.348] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.348] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.348] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.349] [Worker-Main-2/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:none
+[29Nov2024 01:50:56.350] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
+[29Nov2024 01:50:56.900] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 56%
+[29Nov2024 01:50:57.394] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 57%
+[29Nov2024 01:50:57.844] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[29Nov2024 01:50:58.434] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
+[29Nov2024 01:50:58.817] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 59%
+[29Nov2024 01:50:59.346] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 59%
+[29Nov2024 01:50:59.803] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 60%
+[29Nov2024 01:51:00.350] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 61%
+[29Nov2024 01:51:00.914] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[29Nov2024 01:51:01.300] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 63%
+[29Nov2024 01:51:01.801] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 64%
+[29Nov2024 01:51:02.310] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 65%
+[29Nov2024 01:51:02.933] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 66%
+[29Nov2024 01:51:03.456] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 66%
+[29Nov2024 01:51:03.800] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 67%
+[29Nov2024 01:51:04.311] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 68%
+[29Nov2024 01:51:04.887] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 69%
+[29Nov2024 01:51:05.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
+[29Nov2024 01:51:05.854] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[29Nov2024 01:51:06.342] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 72%
+[29Nov2024 01:51:06.801] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[29Nov2024 01:51:07.439] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[29Nov2024 01:51:07.802] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[29Nov2024 01:51:08.334] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 76%
+[29Nov2024 01:51:08.897] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
+[29Nov2024 01:51:09.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
+[29Nov2024 01:51:09.829] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 79%
+[29Nov2024 01:51:10.214] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[29Nov2024 01:51:10.304] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
+[29Nov2024 01:51:10.860] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 81%
+[29Nov2024 01:51:11.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 81%
+[29Nov2024 01:51:11.915] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 82%
+[29Nov2024 01:51:12.302] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[29Nov2024 01:51:12.877] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[29Nov2024 01:51:13.304] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[29Nov2024 01:51:13.820] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[29Nov2024 01:51:14.302] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[29Nov2024 01:51:14.864] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[29Nov2024 01:51:15.370] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[29Nov2024 01:51:15.899] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[29Nov2024 01:51:16.304] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[29Nov2024 01:51:16.818] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[29Nov2024 01:51:17.540] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[29Nov2024 01:51:17.801] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[29Nov2024 01:51:18.301] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[29Nov2024 01:51:18.888] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[29Nov2024 01:51:19.317] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[29Nov2024 01:51:20.005] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[29Nov2024 01:51:20.366] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[29Nov2024 01:51:20.946] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[29Nov2024 01:51:20.948] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 74149 ms
+[29Nov2024 01:51:20.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (99.926s)! For help, type "help"
+[29Nov2024 01:51:21.130] [Server thread/INFO] [Pixelmon/]: Datapacks found: vanilla,mod:forge,mod:journeymap,mod:pixelmon,mod:byg,mod:explorerscompass,mod:naturescompass
+[29Nov2024 01:51:37.199] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7b654c9c
+[29Nov2024 01:51:37.226] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Angelichi39[/127.214.251.118:55113] logged in with entity id 372 at (319.5, 168.0, 377.5)
+[29Nov2024 01:51:37.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 joined the game
+[29Nov2024 01:51:38.378] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6eae5f9
+[29Nov2024 01:51:38.428] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:36089] logged in with entity id 375 at (317.5, 168.0, 378.5)
+[29Nov2024 01:51:38.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
+[29Nov2024 01:52:17.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [You picked a starter!]
+[29Nov2024 01:54:02.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 has made the advancement [You picked a starter!]
+[29Nov2024 01:56:12.802] [Server thread/WARN] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Attempting to add a Lambda listener with computed generic type of Event. Are you sure this is what you meant? NOTE : there are complex lambda forms where the generic type information is erased and cannot be recovered at runtime.
+[29Nov2024 01:56:16.836] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD was kicked for floating too long!
+[29Nov2024 01:56:16.837] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Flying is not enabled on this server
+[29Nov2024 01:56:16.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
+[29Nov2024 01:56:16.889] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[29Nov2024 01:56:23.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[29Nov2024 01:56:30.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fb872a
+[29Nov2024 01:56:30.202] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:57683] logged in with entity id 724 at (312.64940740450976, 170.25220334025371, 372.2675577608924)
+[29Nov2024 01:56:30.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game

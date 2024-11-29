@@ -1,306 +1,37 @@
 {
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "pixelmon:recipes/pokeball/base/wooden_base": {
     "criteria": {
-      "has_porkchop": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:32 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:32 +0000"
+      "has_slab": "2024-11-29 01:54:15 +0000"
     },
     "done": true
   },
   "pixelmon:recipes/pokeball/base/aluminum_base": {
     "criteria": {
-      "has_ingot": "2024-11-28 16:27:35 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/base/iron_base": {
-    "criteria": {
-      "has_ingot": "2024-11-28 16:27:35 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/base/platinum_base": {
-    "criteria": {
-      "has_ingot": "2024-11-28 16:27:35 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/base/wooden_base": {
-    "criteria": {
-      "has_slab": "2024-11-28 16:27:35 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/decor/household_items/item_frame": {
-    "criteria": {
-      "has_painting": "2024-11-28 16:39:51 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/friend_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_monitor": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2024-11-28 16:34:49 +0000",
-      "minecraft:beach": "2024-11-28 16:31:14 +0000",
-      "minecraft:river": "2024-11-28 16:29:48 +0000",
-      "minecraft:lukewarm_ocean": "2024-11-28 16:29:56 +0000",
-      "minecraft:birch_forest_hills": "2024-11-28 16:34:58 +0000",
-      "minecraft:plains": "2024-11-28 16:34:28 +0000"
-    },
-    "done": false
-  },
-  "pixelmon:recipes/pokeball/lid/net_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:55 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/dusk_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/safari_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
+      "has_ingot": "2024-11-29 01:54:15 +0000"
     },
     "done": true
   },
   "pixelmon:recipes/pokeball/base/silver_base": {
     "criteria": {
-      "has_ingot": "2024-11-28 16:27:35 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/decor/household_items/mug_ball": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:32 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/fast_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-11-28 16:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2024-11-28 16:35:55 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/infuser/ev_boost/carbos": {
-    "criteria": {
-      "has_feather": "2024-11-28 16:30:38 +0000"
+      "has_ingot": "2024-11-29 01:54:15 +0000"
     },
     "done": true
   },
   "pixelmon:pokedex/pokedex_trigger": {
     "criteria": {
-      "pokedex_base": "2024-11-28 16:27:32 +0000"
+      "pokedex_base": "2024-11-29 01:54:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "pixelmon:recipes/pokeball/base/iron_base": {
     "criteria": {
-      "has_bone": "2024-11-28 16:36:26 +0000"
+      "has_ingot": "2024-11-29 01:54:15 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/sport_ball_lid": {
+  "pixelmon:recipes/pokeball/base/platinum_base": {
     "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 16:29:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2024-11-28 16:35:55 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_panel": {
-    "criteria": {
-      "has_poke_ball": "2024-11-28 16:35:32 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/dive_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/curry/brittle_bones": {
-    "criteria": {
-      "has_bone": "2024-11-28 16:36:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2024-11-28 16:35:47 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/love_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-28 16:35:47 +0000"
+      "has_ingot": "2024-11-29 01:54:15 +0000"
     },
     "done": true
   },
