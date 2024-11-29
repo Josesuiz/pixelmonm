@@ -439,3 +439,7 @@ java.lang.NullPointerException: null
 [29Nov2024 02:41:54.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 has made the advancement [What an Achieveement!]
 [29Nov2024 02:49:27.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Acquire Hardware]
 [29Nov2024 02:49:52.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Diamonds!]
+[29Nov2024 03:13:37.886] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Disconnected
+[29Nov2024 03:13:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
+[29Nov2024 03:13:41.183] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Angelichi39 lost connection: Disconnected
+[29Nov2024 03:13:41.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 left the game

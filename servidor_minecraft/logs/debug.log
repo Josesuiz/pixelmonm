@@ -1600,3 +1600,11 @@ java.lang.NullPointerException: null
 [29Nov2024 03:01:28.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [29Nov2024 03:06:29.030] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Nov2024 03:06:29.037] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Nov2024 03:11:29.237] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 03:11:29.246] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Nov2024 03:13:37.886] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ThebrosXD lost connection: Disconnected
+[29Nov2024 03:13:37.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD left the game
+[29Nov2024 03:13:41.183] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Angelichi39 lost connection: Disconnected
+[29Nov2024 03:13:41.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 left the game
+[29Nov2024 03:16:27.781] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Nov2024 03:16:27.790] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

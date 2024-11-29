@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-29 03:10:01 +0000"
+    },
+    "done": true
+  },
   "pixelmon:specs/eeveelution_capture_all": {
     "criteria": {
       "0": "2024-11-29 02:41:54 +0000",
@@ -268,6 +274,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-11-29 03:03:05 +0000",
+      "bread": "2024-11-29 03:13:05 +0000",
       "cod": "2024-11-29 02:03:32 +0000",
       "carrot": "2024-11-29 02:31:15 +0000"
     },
@@ -387,6 +394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-29 03:10:01 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/love_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-29 02:29:22 +0000"
@@ -426,6 +439,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2024-11-29 02:30:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
@@ -540,6 +559,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-11-29 01:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
@@ -687,6 +712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-11-29 01:56:38 +0000"
@@ -702,6 +733,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 02:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
@@ -927,9 +964,21 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/household_items/end_table": {
+    "criteria": {
+      "has_crafting_table": "2024-11-29 03:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-29 02:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
@@ -963,6 +1012,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-29 03:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 02:28:04 +0000"
@@ -981,6 +1036,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-11-29 03:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 02:02:13 +0000"
@@ -990,6 +1057,12 @@
   "pixelmon:recipes/repel": {
     "criteria": {
       "has_ingot": "2024-11-29 02:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
@@ -1124,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/household_items/fridge": {
     "criteria": {
       "has_aluminum": "2024-11-29 02:32:50 +0000"
@@ -1211,6 +1290,12 @@
   "pixelmon:recipes/decor/household_items/glass_table": {
     "criteria": {
       "has_planks": "2024-11-29 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/bench/bench": {
+    "criteria": {
+      "has_planks": "2024-11-29 03:10:20 +0000"
     },
     "done": true
   },
