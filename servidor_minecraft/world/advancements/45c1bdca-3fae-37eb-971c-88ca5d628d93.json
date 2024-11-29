@@ -1,31 +1,25 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-11-29 02:50:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-11-29 02:10:55 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/curry/potato_pack": {
+  "pixelmon:recipes/decor/vending_machine/green_vending_machine": {
     "criteria": {
-      "has_potato": "2024-11-29 02:29:29 +0000"
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "pixelmon:recipes/decor/healer/white_healer": {
     "criteria": {
-      "has_porkchop": "2024-11-29 02:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-11-29 02:03:34 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
-    "criteria": {
-      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -41,21 +35,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/infuser/medicine/skitty_smoothie": {
+  "pixelmon:recipes/decor/vending_machine/red_vending_machine": {
     "criteria": {
-      "has_berry": "2024-11-29 02:26:33 +0000"
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/combat/iron_sword": {
     "criteria": {
-      "has_reeds": "2024-11-29 02:16:06 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/base/platinum_base": {
-    "criteria": {
-      "has_ingot": "2024-11-29 01:52:33 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -65,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+  "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
-      "has_salmon": "2024-11-29 01:59:04 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+  "pixelmon:recipes/decor/healer/green_healer_dyed": {
     "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -98,12 +86,6 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-11-29 02:01:24 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:types/capture_type_trigger": {
-    "criteria": {
-      "capture_any": "2024-11-29 02:38:50 +0000"
     },
     "done": true
   },
@@ -139,15 +121,27 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/healer/yellow_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-29 02:03:34 +0000"
     },
     "done": true
   },
-  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+  "pixelmon:recipes/decor/healer/yellow_healer": {
     "criteria": {
-      "wild_battle_victory_trigger": "2024-11-29 01:58:51 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -157,15 +151,33 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/vending_machine/lime_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/movement/old_running_boots": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-11-29 02:04:26 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+  "pixelmon:recipes/decor/healer/magenta_healer_dyed": {
     "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -174,6 +186,12 @@
       "0": "2024-11-29 02:38:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
@@ -187,15 +205,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-11-29 01:57:51 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/infuser/incense/all_incense": {
     "criteria": {
       "has_the_recipe": "2024-11-29 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -211,33 +229,9 @@
     },
     "done": true
   },
-  "pixelmon:balls/great_ball_capture": {
+  "pixelmon:recipes/decor/healer/lime_healer_dyed": {
     "criteria": {
-      "great_ball_capture": "2024-11-29 02:38:50 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/infuser/juice/colorful_juice": {
-    "criteria": {
-      "has_juice_berry_1": "2024-11-29 02:26:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-11-29 02:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 02:03:42 +0000"
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -247,27 +241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-11-29 02:16:54 +0000"
-    },
-    "done": true
-  },
   "pixelmon:recipes/infuser/medicine/roserade_tea": {
     "criteria": {
       "has_berry": "2024-11-29 02:26:33 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/equipment/good_rod": {
-    "criteria": {
-      "has_old_rod": "2024-11-29 01:57:51 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
     },
     "done": true
   },
@@ -289,9 +265,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/decor/household_items/mug_ball": {
+  "pixelmon:recipes/decor/healer/magenta_healer": {
     "criteria": {
-      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -301,15 +277,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+  "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
-    "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -333,15 +303,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_cobblestone": "2024-11-29 02:03:42 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/decor/household_items/end_table": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_crafting_table": "2024-11-29 02:03:33 +0000"
+      "has_cobblestone": "2024-11-29 02:03:42 +0000"
     },
     "done": true
   },
@@ -357,15 +327,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-29 02:03:42 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/equipment/reveal_glass": {
+  "minecraft:recipes/redstone/hopper": {
     "criteria": {
-      "has_emerald": "2024-11-29 02:30:17 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -381,33 +357,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "pixelmon:recipes/decor/healer/green_healer": {
     "criteria": {
-      "has_salmon": "2024-11-29 01:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-11-29 02:03:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-11-29 02:03:34 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/machines/trade_machine/trade_panel": {
-    "criteria": {
-      "has_poke_ball": "2024-11-29 02:28:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2024-11-29 02:28:03 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -423,15 +375,33 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+  "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
-      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/decor/household_items/oven": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_oven": "2024-11-29 02:10:55 +0000"
+      "has_string": "2024-11-29 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_ha_weak": {
+    "criteria": {
+      "has_case_recipe": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_right": {
+    "criteria": {
+      "has_poke_ball": "2024-11-29 02:28:03 +0000"
     },
     "done": true
   },
@@ -441,35 +411,27 @@
     },
     "done": true
   },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+  "pixelmon:recipes/decor/healer/brown_healer": {
     "criteria": {
-      "has_recipe": "2024-11-29 02:44:21 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/base/iron_base": {
+  "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "has_ingot": "2024-11-29 01:52:33 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
-  "pixelmon:specs/spec_trigger": {
+  "pixelmon:recipes/decor/healer/cyan_healer_dyed": {
     "criteria": {
-      "unown_capture_all": "2024-11-29 02:38:50 +0000",
-      "eeveelution_capture_all": "2024-11-29 02:38:50 +0000",
-      "minior_capture_all": "2024-11-29 02:38:50 +0000"
-    },
-    "done": true
-  },
-  "pixelmon:recipes/pokeball/base/wooden_base": {
-    "criteria": {
-      "has_slab": "2024-11-29 01:52:33 +0000"
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -479,27 +441,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 02:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2024-11-29 02:35:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-11-29 02:03:42 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+  "minecraft:recipes/transportation/minecart": {
     "criteria": {
-      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -509,14 +459,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "pixelmon:recipes/decor/vending_machine/gray_vending_machine": {
     "criteria": {
-      "minecraft:cold_ocean": "2024-11-29 02:02:36 +0000",
-      "minecraft:beach": "2024-11-29 02:02:29 +0000",
-      "minecraft:river": "2024-11-29 02:12:11 +0000",
-      "minecraft:swamp": "2024-11-29 02:14:42 +0000"
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -530,9 +483,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/infuser/juice/red_juice": {
+  "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "has_red_juice_berry_1": "2024-11-29 02:26:33 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -566,6 +519,713 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 01:59:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/cyan_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-11-29 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/iron_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-11-29 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-11-29 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_blue_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-11-29 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-11-29 02:01:24 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/light_gray_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/infuser": {
+    "criteria": {
+      "has_furnace": "2024-11-29 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/purple_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2024-11-29 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/red_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-29 02:04:26 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/brown_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_type_weak": {
+    "criteria": {
+      "has_leppa": "2024-11-29 02:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-29 01:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-11-29 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-11-29 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/orange_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/potato_pack": {
+    "criteria": {
+      "has_potato": "2024-11-29 02:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-11-29 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_holder_left": {
+    "criteria": {
+      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/medicine/skitty_smoothie": {
+    "criteria": {
+      "has_berry": "2024-11-29 02:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-29 02:16:06 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/platinum_base": {
+    "criteria": {
+      "has_ingot": "2024-11-29 01:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-11-29 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-11-29 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/repeat_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2024-11-29 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_heavy_ball_lid": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/magenta_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:wild_battle_victories/wild_battle_victory_trigger": {
+    "criteria": {
+      "wild_battle_victory_trigger": "2024-11-29 01:58:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/lime_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/lure_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/purple_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-29 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/great_ball_capture": {
+    "criteria": {
+      "great_ball_capture": "2024-11-29 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/quick_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/colorful_juice": {
+    "criteria": {
+      "has_juice_berry_1": "2024-11-29 02:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-11-29 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_shiny_weak": {
+    "criteria": {
+      "has_case_recipe": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 02:16:54 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/good_rod": {
+    "criteria": {
+      "has_old_rod": "2024-11-29 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/heavy_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/mug_ball": {
+    "criteria": {
+      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/luxury_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/moon_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/white_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/pink_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/end_table": {
+    "criteria": {
+      "has_crafting_table": "2024-11-29 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-11-29 02:50:31 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/ev_boost/carbos": {
+    "criteria": {
+      "has_feather": "2024-11-29 02:47:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/blue_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/reveal_glass": {
+    "criteria": {
+      "has_emerald": "2024-11-29 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/pink_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/equipment/vanilla/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-11-29 01:59:04 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/blue_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-29 02:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-11-29 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/trade_machine/trade_panel": {
+    "criteria": {
+      "has_poke_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/orange_healer": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/gray_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/household_items/oven": {
+    "criteria": {
+      "has_oven": "2024-11-29 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-11-29 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/iron_base": {
+    "criteria": {
+      "has_ingot": "2024-11-29 01:52:33 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/black_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "unown_capture_all": "2024-11-29 02:38:50 +0000",
+      "eeveelution_capture_all": "2024-11-29 02:38:50 +0000",
+      "minior_capture_all": "2024-11-29 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/base/wooden_base": {
+    "criteria": {
+      "has_slab": "2024-11-29 01:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-11-29 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/light_blue_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 02:35:55 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/level_ball_lid": {
+    "criteria": {
+      "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/pokeball/lid/ancient_poke_ball_lid": {
+    "criteria": {
+      "has_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-11-29 02:02:36 +0000",
+      "minecraft:beach": "2024-11-29 02:02:29 +0000",
+      "minecraft:river": "2024-11-29 02:12:11 +0000",
+      "minecraft:swamp": "2024-11-29 02:14:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/infuser/juice/red_juice": {
+    "criteria": {
+      "has_red_juice_berry_1": "2024-11-29 02:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-11-29 02:03:42 +0000"
@@ -584,15 +1244,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "pixelmon:recipes/decor/vending_machine/black_vending_machine": {
     "criteria": {
-      "in_water": "2024-11-29 01:59:09 +0000"
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-29 02:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/lures/lure_casing_weak": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-29 02:50:44 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/healer/white_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -608,9 +1292,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "pixelmon:recipes/equipment/old_rod": {
     "criteria": {
-      "has_salmon": "2024-11-29 01:59:04 +0000"
+      "has_string": "2024-11-29 02:50:31 +0000"
     },
     "done": true
   },
@@ -620,9 +1304,27 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decor/healer/orange_healer_dyed": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/reassembly_unit": {
     "criteria": {
       "has_emerald": "2024-11-29 02:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -632,21 +1334,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-11-29 02:03:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-11-29 01:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-11-29 02:29:29 +0000"
     },
     "done": true
   },
@@ -656,15 +1346,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "pixelmon:recipes/decor/vending_machine/brown_vending_machine": {
     "criteria": {
-      "has_blaze_powder": "2024-11-29 02:35:55 +0000"
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
     "done": true
   },
-  "pixelmon:recipes/curry/toast": {
+  "pixelmon:recipes/decor/healer/purple_healer": {
     "criteria": {
-      "has_bread": "2024-11-29 02:28:03 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decor/vending_machine/yellow_vending_machine": {
+    "criteria": {
+      "has_fresh_water": "2024-11-29 02:53:04 +0000"
     },
     "done": true
   },
@@ -674,15 +1370,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/decorations/lantern": {
     "criteria": {
-      "has_potato": "2024-11-29 02:29:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2024-11-29 02:01:24 +0000"
+      "has_iron_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -692,9 +1382,9 @@
     },
     "done": true
   },
-  "pixelmon:recipes/machines/infuser": {
+  "pixelmon:recipes/decor/bench/bench": {
     "criteria": {
-      "has_furnace": "2024-11-29 02:10:55 +0000"
+      "has_planks": "2024-11-29 02:50:44 +0000"
     },
     "done": true
   },
@@ -710,9 +1400,9 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
+  "pixelmon:recipes/decor/healer/cyan_healer": {
     "criteria": {
-      "has_log": "2024-11-29 02:03:18 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -722,9 +1412,9 @@
     },
     "done": false
   },
-  "minecraft:story/upgrade_tools": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "stone_pickaxe": "2024-11-29 02:04:26 +0000"
+      "has_diamond": "2024-11-29 02:49:52 +0000"
     },
     "done": true
   },
@@ -734,27 +1424,15 @@
     },
     "done": true
   },
-  "pixelmon:recipes/lures/lure_type_weak": {
-    "criteria": {
-      "has_leppa": "2024-11-29 02:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-29 01:59:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-11-29 02:03:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "has_cod": "2024-11-29 01:59:04 +0000"
+      "iron": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
@@ -782,15 +1460,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "pixelmon:recipes/pokeball/lid/feather_ball_lid": {
     "criteria": {
-      "has_potato": "2024-11-29 02:29:29 +0000"
+      "has_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "pixelmon:recipes/machines/elevator": {
     "criteria": {
-      "has_porkchop": "2024-11-29 02:28:03 +0000"
+      "has_ingot": "2024-11-29 02:49:27 +0000"
     },
     "done": true
   },
