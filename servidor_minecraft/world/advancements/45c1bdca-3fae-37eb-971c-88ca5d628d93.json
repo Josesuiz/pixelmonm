@@ -101,6 +101,26 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2024-11-29 02:38:50 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/eeveelution_capture_all": {
+    "criteria": {
+      "0": "2024-11-29 02:38:50 +0000",
+      "1": "2024-11-29 02:38:50 +0000",
+      "2": "2024-11-29 02:38:50 +0000",
+      "3": "2024-11-29 02:38:50 +0000",
+      "4": "2024-11-29 02:38:50 +0000",
+      "5": "2024-11-29 02:38:50 +0000",
+      "6": "2024-11-29 02:38:50 +0000",
+      "7": "2024-11-29 02:38:50 +0000",
+      "8": "2024-11-29 02:38:50 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/net_ball_lid": {
     "criteria": {
       "has_ultra_ball": "2024-11-29 02:28:03 +0000"
@@ -110,6 +130,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-11-29 02:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-11-29 02:44:21 +0000"
     },
     "done": true
   },
@@ -143,6 +169,18 @@
     },
     "done": true
   },
+  "pixelmon:specs/clobbopus_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-29 02:38:50 +0000"
+    },
+    "done": false
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-11-29 02:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-11-29 02:03:31 +0000"
@@ -170,6 +208,12 @@
   "pixelmon:recipes/pokeball/lid/premier_ball_lid": {
     "criteria": {
       "has_poke_ball": "2024-11-29 02:30:09 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:balls/great_ball_capture": {
+    "criteria": {
+      "great_ball_capture": "2024-11-29 02:38:50 +0000"
     },
     "done": true
   },
@@ -239,6 +283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-29 02:44:03 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decor/household_items/mug_ball": {
     "criteria": {
       "has_poke_ball": "2024-11-29 02:28:03 +0000"
@@ -265,6 +315,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-11-29 02:42:21 +0000",
       "salmon": "2024-11-29 02:10:41 +0000",
       "melon_slice": "2024-11-29 02:02:19 +0000"
     },
@@ -360,6 +411,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/curry/boiled_egg": {
+    "criteria": {
+      "has_egg": "2024-11-29 02:44:03 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/lid/love_ball_lid": {
     "criteria": {
       "has_ultra_ball": "2024-11-29 02:28:03 +0000"
@@ -384,6 +441,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-11-29 02:44:21 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/pokeball/base/iron_base": {
     "criteria": {
       "has_ingot": "2024-11-29 01:52:33 +0000"
@@ -393,6 +456,14 @@
   "pixelmon:recipes/pokeball/lid/timer_ball_lid": {
     "criteria": {
       "has_ultra_ball": "2024-11-29 02:28:03 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "unown_capture_all": "2024-11-29 02:38:50 +0000",
+      "eeveelution_capture_all": "2024-11-29 02:38:50 +0000",
+      "minior_capture_all": "2024-11-29 02:38:50 +0000"
     },
     "done": true
   },
@@ -525,6 +596,12 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-11-29 02:44:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-11-29 01:59:09 +0000"
@@ -548,6 +625,12 @@
       "has_emerald": "2024-11-29 02:30:17 +0000"
     },
     "done": true
+  },
+  "pixelmon:specs/spheal_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-29 02:38:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
@@ -632,6 +715,12 @@
       "has_log": "2024-11-29 02:03:18 +0000"
     },
     "done": true
+  },
+  "pixelmon:specs/magikarp_jump_capture_all": {
+    "criteria": {
+      "0": "2024-11-29 02:38:50 +0000"
+    },
+    "done": false
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
