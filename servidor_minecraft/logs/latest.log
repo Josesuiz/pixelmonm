@@ -293,3 +293,7 @@ java.lang.NullPointerException: null
 [29Nov2024 01:56:30.190] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8fb872a
 [29Nov2024 01:56:30.202] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ThebrosXD[/127.135.152.253:57683] logged in with entity id 724 at (312.64940740450976, 170.25220334025371, 372.2675577608924)
 [29Nov2024 01:56:30.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD joined the game
+[29Nov2024 01:58:51.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Only took me four tries *Fist pump*]
+[29Nov2024 02:03:42.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Stone Age]
+[29Nov2024 02:04:26.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ThebrosXD has made the advancement [Getting an Upgrade]
+[29Nov2024 02:07:19.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 has made the advancement [Stone Age]
