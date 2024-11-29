@@ -296,6 +296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 02:17:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-29 02:02:13 +0000"
@@ -329,6 +335,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_reeds": "2024-11-29 02:06:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/curry/toast": {
+    "criteria": {
+      "has_bread": "2024-11-29 02:24:39 +0000"
     },
     "done": true
   },

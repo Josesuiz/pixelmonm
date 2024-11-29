@@ -272,6 +272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 02:16:54 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/equipment/good_rod": {
     "criteria": {
       "has_old_rod": "2024-11-29 01:57:51 +0000"
