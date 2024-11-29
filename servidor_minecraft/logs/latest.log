@@ -428,3 +428,4 @@ java.lang.NullPointerException: null
 [29Nov2024 02:23:05.370] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:white_chair}[facing=north] but failed at location BlockPos{x=590, y=74, z=1573}
 [29Nov2024 02:23:05.371] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{pixelmon:green_couch}[facing=south,multipos=bottom] but failed at location BlockPos{x=587, y=70, z=1571}
 [29Nov2024 02:23:39.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ThebrosXD: Teleported ThebrosXD to Angelichi39]
+[29Nov2024 02:28:04.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Angelichi39 has made the advancement [Acquire Hardware]
