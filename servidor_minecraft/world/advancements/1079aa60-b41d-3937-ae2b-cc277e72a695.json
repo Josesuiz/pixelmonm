@@ -267,6 +267,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2024-11-29 03:03:05 +0000",
       "cod": "2024-11-29 02:03:32 +0000",
       "carrot": "2024-11-29 02:31:15 +0000"
     },
